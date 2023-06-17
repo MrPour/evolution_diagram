@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="../css/style123.css">
+    <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="../js/echarts.js"></script>
+    <script type="text/javascript" src="../js/echarts-gl.min.js"></script>
+</head>
+<body>
+<div id="main" class="container" style="width:100%;height:750px;"></div>
+<div><button id="stop" class="btn-default" style="display: none">暂停/播放</button>
+</div>
+</body>
+
+<script>
+    const ROOT_PATH =
+        'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/examples';
+    let myChart = echarts.init(document.getElementById('main'));
+    let allData = []
+    let target = {};
+    let timeLength = [];
+    $.getJSON('./data/map_data_few.json',data=>{
+        data.sort((a,b) => a.time-b.time)
+        $.each(data,(k,v)=>{
+          let time = v.time
+          if(time in target) target[time].push(v)
+          else target[time] = [v]
+        })
+        allData = data
+        $.each(target,(k,v)=>{
+            timeLength.push(v.length)
+        })
+        console.log(timeLength)
+        console.log(target);
+        console.log(allData.length);
+        let option = {
+            backgroundColor: '#000',
+            title: {
+                text: 'Evolution diagram',
+                subtext:'',
+                left: '3.3%',
+                top: '5.3%',
+                textStyle: {
+                    color: '#000000',
+                    fontSize: 30
+                },
+                subtextStyle:{
+                    color: '#FF9900',
+                    fontSize: 20
+                }
+            },
+            globe: {
+                baseTexture: ROOT_PATH + '/data-gl/asset/world.topo.bathy.200401.jpg',
+                heightTexture: ROOT_PATH + '/data-gl/asset/bathymetry_bw_composite_4k.jpg',
+                displacementScale: 0.02,
+                globeRadius:100,
+                globeOuterRadius:102.5,
+                shading: 'realistic',
+                realisticMaterial: {
+                    roughness: ROOT_PATH + '/asset/get/s/data-1497599804873-H1SHkG-mZ.jpg',
+                    metalness: ROOT_PATH + '/asset/get/s/data-1497599800643-BJbHyGWQW.jpg',
+                    textureTiling: [8, 4]
+                },
+                postEffect: {
+                    enable: true
+                },
+                viewControl: {
+                    // 定位到北京
+                    targetCoord: [104.04, 30.39],
+                    autoRotate : false,
+                    //视角高度
+                    distance: 100
+                },
+                light: {
+                    main: {
+                        intensity: 0.3,
+                        shadow: false
+                    },
+                    ambientCubemap: {
+                        texture: ROOT_PATH + '/data-gl/asset/pisa.hdr',
+                        exposure: 2,
+                        diffuseIntensity: 2,
+                        specularIntensity: 2
+                    },
+                    ambient:{
+                        color:"#fff",
+                        intensity:0.5
+                    }
+                }
+            },
+            series: {
+                type: 'scatter3D',
+                coordinateSystem: 'globe',
+                symbol:'pin',
+                blendMode: 'lighter',
+                symbolSize: 10,
+                itemStyle: {
+                    color: 'rgb(102, 204, 153)',
+                    opacity: 0.35
+                },
+                label:{
+                    show:true,
+                    distance:5,
+                    position:'top',
+                    formatter:'{b}',
+                    textStyle:{
+                        color: '#d3d3d3',
+                        borderWidth: 1 ,
+                        fontFamily: 'sans-serif' ,
+                        fontSize: 17 ,
+                        fontStyle:'italic',
+                        fontWeight: 'normal'
+                    }
+                },
+                data: [],
+                animation:false
+
+            }
+        };
+
+        let start = 200;
+        let close2 = true;
+        let intervalInit2 = null;
+        let timeLineItems = [];
+        let timeRange = 1;
+        const fullSpeed = 500;
+
+        $("#stop").click(function () {
+            if(!close2)
+            {
+                //关闭动画
+                clearInterval(intervalInit2);
+                close2 = !close2
+            }
+            else
+            {
+                //开启动画
+                close2 = !close2;
+                intervalInit2 = setInterval(function () {
+
+                    let end = start - timeRange
+                    Object.keys(target).forEach(key => {
+                        if((~key) <= start && (~key) > end)
+                        {
+                            let item = target[key];
+                            console.log(`当前的数组--${item}`);
+                            timeLineItems = timeLineItems.concat(item)
+                        }
+                    })
+                    let nowKey = ~Object.keys(target).reverse()[0];
+                    let threshold = nowKey-1;
+                    if(end > threshold) {
+                        option.title.subtext = `Timeline: ${end}  million years ago`;
+                        start = end;
+                        option.series.data = timeLineItems;
+                        myChart.setOption(option);
+                    }
+                    else
+                    {
+                        option.series.label.show = false;
+                        option.series.data = allData;
+                        myChart.setOption(option);
+                        clearInterval(intervalInit2)
+                    }
+
+                }, fullSpeed);
+            }
+        })
+        $(document).keydown(function(event){
+            if(event.keyCode == 32){
+                $("#stop").click()
+            }
+        });
+        myChart.setOption(option);
+    })
+
+
+
+</script>
+</html>

@@ -1,0 +1,1349 @@
+,node,name,date,species,order,family,genus,rank,lon,lat
+0,Araucariaceae,Araucarites rudicula,-227.0,Araucarites K.B.Presl,Pinales,Araucariaceae,Araucarites,GENUS,-108.71498,-12.125833
+1,Araucariaceae,Araucarites rudicula,-227.0,Araucarites K.B.Presl,Pinales,Araucariaceae,Araucarites,GENUS,-106.930399,-2.0
+2,Araucaria,Araucaria mirabilis,-157.3,Araucaria Juss,Pinales,Araucariaceae,Araucaria,GENUS,-69.828613,-49.04506
+3,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,167.96456,-29.033371
+4,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,30.375,-25.125
+5,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.69777,-21.38214
+6,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.5049,-21.38053
+7,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.50581,-21.29021
+8,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.40944,-21.28932
+9,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.41041,-21.199
+10,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.3141,-21.19807
+11,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.70015,-21.11114
+12,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.21888,-21.10677
+13,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.31614,-21.01744
+14,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,55.31715,-20.92712
+15,Araucaria,Araucaria mirabilis,-157.3,Araucaria columnaris (J.R.Forst.) Hook,Pinales,Araucariaceae,Araucaria,SPECIES,-149.894,-17.4906
+16,Araucaria,Araucaria mirabilis,-157.3,Araucaria Juss,Pinales,Araucariaceae,Araucaria,GENUS,39.183333,-9.866667
+17,Araucaria,Araucaria mirabilis,-157.3,Araucaria cunninghamii Aiton ex A.Cunn,Pinales,Araucariaceae,Araucaria,SPECIES,138.89,-4.02
+18,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-15.5481,28.059304
+19,Araucaria,Araucaria mirabilis,-157.3,Araucaria Juss,Pinales,Araucariaceae,Araucaria,GENUS,-15.523744,28.120369
+20,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-15.432652,28.139291
+21,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-17.256373,28.210027
+22,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-16.837481,28.230488
+23,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-16.773593,28.365295
+24,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-13.507078,29.143797
+25,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-0.7,38.29
+26,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,-77.0277,38.8921
+27,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,-8.959732,39.209232
+28,Araucaria,Araucaria mirabilis,-157.3,Araucaria heterophylla (Salisb.) Franco,Pinales,Araucariaceae,Araucaria,SPECIES,19.853734,39.66448
+29,Araucaria,Araucaria mirabilis,-157.3,Araucaria Juss,Pinales,Araucariaceae,Araucaria,GENUS,0.534166,40.559101
+30,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.58395,44.91291
+31,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.21361,45.36783
+32,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.47143,45.4548
+33,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.01051,45.62696
+34,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.90705,45.72929
+35,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.73852,45.81126
+36,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.51897,45.81493
+37,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.7745,45.90805
+38,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.41946,45.9132
+39,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.51169,46.08503
+40,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.49572,46.35511
+41,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.48152,46.358
+42,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.75402,46.4354
+43,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.75865,46.44142
+44,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.80392,46.6349
+45,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.93464,46.63505
+46,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.63924,46.80345
+47,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.67,46.8386
+48,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.64196,46.89347
+49,Araucaria,Araucaria mirabilis,-157.3,Araucaria rulei F.Muell,Pinales,Araucariaceae,Araucaria,SPECIES,1.28745,47.3552
+50,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.52757,48.34435
+51,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.66253,48.34481
+52,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.7975,48.34512
+53,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.69545,48.3932
+54,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.52676,48.43432
+55,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.66196,48.43478
+56,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.79715,48.43509
+57,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.66138,48.52474
+58,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,2.7968,48.52505
+59,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,5.97843,49.96392
+60,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,6.55243,51.33374
+61,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,11.958226,51.474957
+62,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.13373,52.043681
+63,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,6.45,52.05
+64,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,0.72597,52.053826
+65,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,0.679543,52.252735
+66,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.564136,52.319267
+67,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.56558,52.337213
+68,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,4.6,52.35
+69,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.718072,52.404466
+70,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,1.456796,52.44838
+71,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,6.1,52.5
+72,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,0.440851,52.707516
+73,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,-1.157371,52.729646
+74,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,-1.364408,52.748915
+75,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,-1.364147,52.766893
+76,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,-1.175062,53.359025
+77,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,5.873931,59.174141
+78,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,5.398156,60.159559
+79,Araucaria,Araucaria mirabilis,-157.3,Araucaria araucana (Molina) K.Koch,Pinales,Araucariaceae,Araucaria,SPECIES,11.046628,63.759111
+80,Canellaceae,Walkeripollis gabonensis,-125.0,Walkeripollis J.A.Doyle,,Canellaceae,Walkeripollis,GENUS,-72.133331,-48.799999
+81,Schisandraceae,Anacostia teixeirae,-125.0,Anacostia tribulella Shaffer,Lepidoptera,Pyralidae,Anacostia,SPECIES,-83.433481,33.883412
+82,Trimeniaceae,Anacostia teixeirae,-125.0,Anacostia tribulella Shaffer,Lepidoptera,Pyralidae,Anacostia,SPECIES,-83.433481,33.883412
+83,Schisandraceae,Anacostia teixeirae,-125.0,Rana Linnaeus,Anura,Ranidae,Rana,GENUS,-76.93,38.91
+84,Schisandraceae,Anacostia teixeirae,-125.0,Leuciscidae,Cypriniformes,Leuciscidae,,FAMILY,-76.932198,38.998501
+85,Schisandraceae,Anacostia teixeirae,-125.0,Leuciscidae,Cypriniformes,Leuciscidae,,FAMILY,-76.997803,39.024601
+86,Schisandraceae,Anacostia teixeirae,-125.0,Catostomidae,Cypriniformes,Catostomidae,,FAMILY,-76.997597,39.0252
+87,Schisandraceae,Anacostia teixeirae,-125.0,Leuciscidae,Cypriniformes,Leuciscidae,,FAMILY,-76.997597,39.0252
+88,Schisandraceae,Anacostia teixeirae,-125.0,Leuciscidae,Cypriniformes,Leuciscidae,,FAMILY,-76.9981,39.025398
+89,Schisandraceae,Anacostia teixeirae,-125.0,Anacostia Shaffer,Lepidoptera,Pyralidae,Anacostia,GENUS,-8.77,39.704445
+90,Trimeniaceae,Anacostia teixeirae,-125.0,Anacostia Shaffer,Lepidoptera,Pyralidae,Anacostia,GENUS,-8.77,39.704445
+91,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis asteroides Hedlund & Norris,,,Asteropollis,SPECIES,-57.893055,-63.853333
+92,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis asteroides Hedlund & Norris,,,Asteropollis,SPECIES,130.225006,-11.794444
+93,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis asteroides Hedlund & Norris,,,Asteropollis,SPECIES,130.345276,-11.775833
+94,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis asteroides Hedlund & Norris,,,Asteropollis,SPECIES,130.308884,-11.630833
+95,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis R.W.Hedlund & G.Norris,,,Asteropollis,GENUS,-74.949997,-7.183333
+96,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis R.W.Hedlund & G.Norris,,,Asteropollis,GENUS,-75.546387,2.619722
+97,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis R.W.Hedlund & G.Norris,,,Asteropollis,GENUS,-75.533333,2.620556
+98,Chloranthaceae,Asteropollis sp,-121.0,Asteropollis R.W.Hedlund & G.Norris,,,Asteropollis,GENUS,106.98333,41.5
+99,Pinus,Pityostrobus bernissartensis,-118.5,Trilobosporites bernissartensis Herngreen,,,Trilobosporites,SPECIES,-9.266667,-42.666668
+100,Pinus,Pityostrobus bernissartensis,-118.5,Trilobosporites bernissartensis Herngreen,,,Trilobosporites,SPECIES,-8.183333,-26.833332
+101,Pinus,Pityostrobus bernissartensis,-118.5,Trilobosporites bernissartensis Herngreen,,,Trilobosporites,SPECIES,14.7975,-26.833332
+102,Nymphaeaceae,Monetianthus mirus,-113.0,Monetianthus mirus Friis et al. 2009,Nymphaeales,Nymphaeaceae,Monetianthus,SPECIES,-8.858333,39.620834
+103,Ranunculales,Teixeiraea lusitanica,-113.0,Teixeiraea von Balthazar et al. 2005,Ranunculales,,Teixeiraea,GENUS,-8.858333,39.620834
+104,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.05,46.61
+105,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.06,46.61
+106,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.08,46.61
+107,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.25,46.61
+108,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.1,46.62
+109,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.25,46.62
+110,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,14.6,46.63
+111,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,12.81,47.32
+112,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,13.1,47.69
+113,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,13.06,47.79
+114,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,13.04,47.81
+115,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,13.04,47.87
+116,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,13.04,47.88
+117,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,13.17,47.91
+118,Monocots,Liliacidites sp,-113.0,Arecaceae,Arecales,Arecaceae,,FAMILY,2.30415,47.9618
+119,Monocots,Liliacidites sp,-113.0,Arecaceae,Arecales,Arecaceae,,FAMILY,1.37711,48.1825
+120,Monocots,Liliacidites sp,-113.0,Anatidae,Anseriformes,Anatidae,,FAMILY,16.38,48.21
+121,Monocots,Liliacidites sp,-113.0,Arecaceae,Arecales,Arecaceae,,FAMILY,2.56222,49.0626
+122,Monocots,Liliacidites sp,-113.0,Liliacidites R.A.Couper,Liliales,,Liliacidites,GENUS,146.5625,-63.853333
+123,Monocots,Liliacidites sp,-113.0,Liliacidites R.A.Couper,Liliales,,Liliacidites,GENUS,-73.833336,-11.775833
+124,Annonaceae,Endressinia brasiliana,-113.0,Endressinia brasiliana Mohr & Bernardes de Oliveira,Magnoliales,,Endressinia,SPECIES,-39.780833,-42.573334
+125,Eupomatiaceae,Endressinia brasiliana,-113.0,Endressinia brasiliana Mohr & Bernardes de Oliveira,Magnoliales,,Endressinia,SPECIES,-39.780833,-42.573334
+126,Magnoliaceae,Endressinia brasiliana,-113.0,Endressinia brasiliana Mohr & Bernardes de Oliveira,Magnoliales,,Endressinia,SPECIES,-39.780833,-33.977222
+127,Monocots,Liliacidites sp,-113.0,Liliacidites variegatus Couper,Liliales,,Liliacidites,SPECIES,-92.725,-42.150002
+128,Monocots,Liliacidites sp,-113.0,Liliacidites vermireticulatus Archangelsky & Zamaloa,Liliales,,Liliacidites,SPECIES,-69.033333,-11.630833
+129,Monocots,Liliacidites sp,-113.0,Liliacidites vermireticulatus Archangelsky & Zamaloa,Liliales,,Liliacidites,SPECIES,-67.75,2.620556
+130,Monocots,Liliacidites sp,-113.0,Liliacidites vermireticulatus Archangelsky & Zamaloa,Liliales,,Liliacidites,SPECIES,-67.03611,-11.794444
+131,Monocots,Liliacidites sp,-113.0,Liliacidites kaitangataensis Couper,Liliales,,Liliacidites,SPECIES,130.308884,-7.183333
+132,Monocots,Liliacidites sp,-113.0,Liliacidites regularis Archangelsky,Liliales,,Liliacidites,SPECIES,-72.398613,41.5
+133,Monocots,Liliacidites sp,-113.0,Liliacidites regularis Archangelsky,Liliales,,Liliacidites,SPECIES,-72.23333,2.619722
+134,Monocots,Liliacidites sp,-113.0,Liliacidites variegatus Couper,Liliales,,Liliacidites,SPECIES,-72.398613,16.658333
+135,Monocots,Liliacidites sp,-113.0,Liliacidites variegatus Couper,Liliales,,Liliacidites,SPECIES,-67.72583,20.758333
+136,Monocots,Liliacidites sp,-113.0,Liliacidites crassibaculatus Freile,Liliales,,Liliacidites,SPECIES,-69.75,42.920167
+137,Monocots,Liliacidites sp,-113.0,Liliacidites kaitangataensis Couper,Liliales,,Liliacidites,SPECIES,-72.23333,41.304194
+138,Monocots,Liliacidites sp,-113.0,Liliacidites variegatus Couper,Liliales,,Liliacidites,SPECIES,-72.23333,41.388333
+139,Monocots,Liliacidites sp,-113.0,Liliacidites kaitangataensis Couper,Liliales,,Liliacidites,SPECIES,-72.398613,41.359033
+140,Monocots,Liliacidites sp,-113.0,Liliacidites crassibaculatus Freile,Liliales,,Liliacidites,SPECIES,-69.833336,43.018169
+141,Monocots,Liliacidites sp,-113.0,Liliacidites kaitangataensis Couper,Liliales,,Liliacidites,SPECIES,-56.696388,43.019158
+142,Proteales,Platanocarpus brookensis,-104.7,Platanocarpus carolinensis Friis et al. 1988,Proteales,Platanaceae,Friisicarpus,SPECIES,-78.01667,35.349998
+143,Laurales,Virginianthus calycanthoides,-104.7,Virginianthus calycanthoides Friis et al. 1994,Laurales,Calycanthaceae,Virginianthus,SPECIES,-77.373611,37.262501
+144,Proteales,Platanocarpus brookensis,-104.7,Platanocarpus brookensis Crane et al. 1993,Proteales,Platanaceae,Friisicarpus,SPECIES,-76.416664,37.766666
+145,Proteales,Platanocarpus brookensis,-104.7,Platanocarpus brookensis Crane et al. 1993,Proteales,Platanaceae,Friisicarpus,SPECIES,-77.361946,38.413891
+146,Proteales,Platanocarpus brookensis,-104.7,Platanocarpus marylandensis Friis et al. 1988,Proteales,Platanaceae,Friisicarpus,SPECIES,-76.916664,38.916668
+147,Proteales,Platanocarpus brookensis,-104.7,Platanocarpus elkneckensis Pedersen et al. 1994,Proteales,Platanaceae,Friisicarpus,SPECIES,-75.985275,39.512501
+148,Proteales,Platanocarpus brookensis,-104.7,Platanocarpus E.M.Friis,Proteales,Platanaceae,Friisicarpus,GENUS,14.5,56.150002
+149,Hernandiaceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,-83.986115,32.629723
+150,Lauraceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,-83.986115,32.629723
+151,Monimiaceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,-83.986115,32.629723
+152,Hernandiaceae,Mauldinia mirabilis,-100.5,Laurales,Laurales,,,ORDER,-98.781967,38.471833
+153,Lauraceae,Mauldinia mirabilis,-100.5,Laurales,Laurales,,,ORDER,-98.781967,38.471833
+154,Buxales,Spanomera marylandensis,-100.5,Spanomera A.N.Drinnan,Buxales,Buxaceae,Spanomera,GENUS,-76.916664,38.916668
+155,Buxales,Spanomera marylandensis,-100.5,Spanomera A.N.Drinnan,Buxales,Buxaceae,Spanomera,GENUS,-75.99556,39.487499
+156,Hernandiaceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,-75.99556,39.487499
+157,Lauraceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,-75.99556,39.487499
+158,Monimiaceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,-75.99556,39.487499
+159,Hernandiaceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,7.0,51.0
+160,Lauraceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,7.0,51.0
+161,Monimiaceae,Mauldinia mirabilis,-100.5,Mauldinia A.N.Drinnan et al. 1990,Laurales,Lauraceae,Mauldinia,GENUS,7.0,51.0
+162,Saxifragales,Microaltingia apocarpela,-89.8,Microaltingia apocarpela Zhou et al. 2001,Saxifragales,Hamamelidaceae,Microaltingia,SPECIES,-74.366669,40.466667
+163,Saxifragales,Microaltingia apocarpela,-89.8,Cronquistiflora sayrevillensis Crepet & Nixon,Magnoliales,,Cronquistiflora,SPECIES,-74.366669,40.466667
+164,Saxifragales,Microaltingia apocarpela,-89.8,Detrusandra mystagoga Crepet & Nixon,Magnoliales,,Detrusandra,SPECIES,-74.366669,40.466667
+165,Arecales,Sabal magothiensis,-86.3,Sabal Adans,Arecales,Arecaceae,Sabal,GENUS,151.263102,-33.888804
+166,Arecales,Sabal magothiensis,-86.3,Sabal mauritiiformis (H.Karst.) Griseb. & H.Wendl,Arecales,Arecaceae,Sabal,SPECIES,80.583889,7.261944
+167,Arecales,Sabal magothiensis,-86.3,Sabal mauritiiformis (H.Karst.) Griseb. & H.Wendl,Arecales,Arecaceae,Sabal,SPECIES,-102.532886,23.950465
+168,Arecales,Sabal magothiensis,-86.3,Sabal palmetto (Walter) Lodd. ex Schult. & Schult.f,Arecales,Arecaceae,Sabal,SPECIES,-82.77623,27.788151
+169,Arecales,Sabal magothiensis,-86.3,Sabal minor (Jacq.) Pers,Arecales,Arecaceae,Sabal,SPECIES,-82.510678,28.735437
+170,Arecales,Sabal magothiensis,-86.3,Sabal minor (Jacq.) Pers,Arecales,Arecaceae,Sabal,SPECIES,-90.094076,29.986264
+171,Arecales,Sabal magothiensis,-86.3,Sabal minor (Jacq.) Pers,Arecales,Arecaceae,Sabal,SPECIES,-82.675956,30.060309
+172,Arecales,Sabal magothiensis,-86.3,Sabal minor (Jacq.) Pers,Arecales,Arecaceae,Sabal,SPECIES,-95.496436,30.225348
+173,Arecales,Sabal magothiensis,-86.3,Sabal minor (Jacq.) Pers,Arecales,Arecaceae,Sabal,SPECIES,-81.40271,30.330408
+174,Arecales,Sabal magothiensis,-86.3,Sabal minor (Jacq.) Pers,Arecales,Arecaceae,Sabal,SPECIES,-88.549391,30.499037
+175,Arecales,Sabal magothiensis,-86.3,Sabal blackburniana Schult. & Schult.f,Arecales,Arecaceae,Sabal,SPECIES,-64.776944,32.285
+176,Hamamelidoideae,Allonia decandra,-83.6,Allonia tripodophora Dor茅 & Reid,,Chancelloriidae,Allonia,SPECIES,137.800003,-34.916668
+177,Hamamelidoideae,Allonia decandra,-83.6,Allonia tripodophora Dor茅 & Reid,,Chancelloriidae,Allonia,SPECIES,138.018051,-34.055557
+178,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,138.866669,-31.333332
+179,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,138.933334,-31.266666
+180,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,139.0,-19.733334
+181,Myrtaceae,Myrtaceae,-83.6,Myrtaceae,Myrtales,Myrtaceae,,FAMILY,139.666667,-4.45
+182,Myrtaceae,Myrtaceae,-83.6,Myrtaceae,Myrtales,Myrtaceae,,FAMILY,139.7,-4.416667
+183,Myrtaceae,Myrtaceae,-83.6,Myrtaceae,Myrtales,Myrtaceae,,FAMILY,139.416667,-4.25
+184,Myrtaceae,Myrtaceae,-83.6,Callistemon citrinus (Curtis) Skeels,Myrtales,Myrtaceae,Callistemon,SPECIES,37.0704,5.6e-05
+185,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,102.584999,24.806944
+186,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,102.173615,25.679722
+187,Actinidiaceae,Parasaurauia allonensis,-83.6,Parasaurauia allonensis Keller et al. 1996,Ericales,Actinidiaceae,Parasaurauia,SPECIES,-83.986115,32.629723
+188,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,-83.986115,32.629723
+189,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-16.844215,32.696368
+190,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,32.337735,34.921091
+191,Myrtaceae,Myrtaceae,-83.6,Callistemon R.Br,Myrtales,Myrtaceae,Callistemon,GENUS,24.405371,35.185023
+192,Myrtaceae,Myrtaceae,-83.6,Eucalyptus L'H茅r,Myrtales,Myrtaceae,Eucalyptus,GENUS,6.470661,35.486212
+193,Myrtaceae,Myrtaceae,-83.6,Myrtus communis subsp. communis,Myrtales,Myrtaceae,Myrtus,SUBSPECIES,27.919119,36.182771
+194,Myrtaceae,Myrtaceae,-83.6,Myrtus communis subsp. communis,Myrtales,Myrtaceae,Myrtus,SUBSPECIES,27.919178,36.182835
+195,Myrtaceae,Myrtaceae,-83.6,Eucalyptus camaldulensis Dehnh,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-7.993788,37.031998
+196,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.974344,37.043327
+197,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.836658,37.081007
+198,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.839746,37.081667
+199,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.798914,37.113637
+200,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-6.620092,37.122971
+201,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.201361,37.155512
+202,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.312225,37.158004
+203,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.31046,37.158355
+204,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.970179,37.174023
+205,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.890799,37.179968
+206,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.962542,37.180391
+207,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.993539,37.192329
+208,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.691071,37.192802
+209,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.984443,37.219641
+210,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.95525,37.252505
+211,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.981246,37.253602
+212,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-7.914147,37.357495
+213,Myrtaceae,Myrtaceae,-83.6,Eucalyptus globulus Labill,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-5.934896,37.358041
+214,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-1.264461,37.567669
+215,Myrtaceae,Myrtaceae,-83.6,Eucalyptus camaldulensis Dehnh,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-1.105712,37.636755
+216,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-1.482655,37.754714
+217,Myrtaceae,Myrtaceae,-83.6,Eucalyptus camaldulensis Dehnh,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-1.062183,37.918336
+218,Myrtaceae,Myrtaceae,-83.6,Eucalyptus L'H茅r,Myrtales,Myrtaceae,Eucalyptus,GENUS,-3.970892,38.222567
+219,Myrtaceae,Myrtaceae,-83.6,Callistemon viminalis (Sol. ex Gaertn.) G.Don,Myrtales,Myrtaceae,Callistemon,SPECIES,-0.465345,38.353268
+220,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.975388,38.480241
+221,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.969936,38.481007
+222,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.030071,38.488738
+223,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.030691,38.489029
+224,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.029291,38.489925
+225,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.028979,38.490142
+226,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.031405,38.490629
+227,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.987954,38.519634
+228,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.048717,38.607069
+229,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.037199,38.614121
+230,Myrtaceae,Myrtaceae,-83.6,Eucalyptus camaldulensis Dehnh,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-9.042848,38.618086
+231,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.040049,38.6184
+232,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.051872,38.637123
+233,Myrtaceae,Myrtaceae,-83.6,Eucalyptus camaldulensis Dehnh,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-9.052359,38.659769
+234,Juglandaceae,Caryanthus sp,-83.6,Sertulariidae,Leptothecata,Sertulariidae,,FAMILY,0.15,38.69
+235,Juglandaceae,Caryanthus sp,-83.6,Sertulariidae,Leptothecata,Sertulariidae,,FAMILY,0.16,38.69
+236,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,13.173643,38.70892
+237,Juglandaceae,Caryanthus sp,-83.6,Sertulariidae,Leptothecata,Sertulariidae,,FAMILY,0.23,38.75
+238,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.452233,38.808163
+239,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.959768,39.109926
+240,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.013075,39.1451
+241,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.96463,39.173402
+242,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.028509,39.184834
+243,Myrtaceae,Myrtaceae,-83.6,Eucalyptus globulus Labill,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-8.979183,39.188496
+244,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.983004,39.191121
+245,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.039972,39.19316
+246,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.987761,39.195345
+247,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.989582,39.197683
+248,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.991827,39.198659
+249,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.002922,39.209559
+250,Myrtaceae,Myrtaceae,-83.6,Callistemon R.Br,Myrtales,Myrtaceae,Callistemon,GENUS,26.209061,39.210423
+251,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.986742,39.211635
+252,Myrtaceae,Myrtaceae,-83.6,Eucalyptus globulus Labill,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-8.967118,39.344736
+253,Myrtaceae,Myrtaceae,-83.6,Eucalyptus globulus Labill,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-8.957554,39.370764
+254,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.943035,39.398573
+255,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,8.516667,39.400002
+256,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.054435,39.444758
+257,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.713873,39.445941
+258,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.849979,39.451685
+259,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-9.028813,39.484377
+260,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.421013,39.484789
+261,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.421372,39.508543
+262,Myrtaceae,Myrtaceae,-83.6,Melaleuca L,Myrtales,Myrtaceae,Melaleuca,GENUS,-8.840426,39.515742
+263,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.596836,39.53737
+264,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.714733,39.545105
+265,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.58541,39.55924
+266,Myrtaceae,Myrtaceae,-83.6,Eucalyptus L'H茅r,Myrtales,Myrtaceae,Eucalyptus,GENUS,2.580524,39.664505
+267,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,2.711959,39.782024
+268,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.493221,39.85955
+269,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.481883,39.865637
+270,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,9.767375,40.437038
+271,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,-8.73044,40.683242
+272,Hamamelidoideae,Allonia decandra,-83.6,Allonia tripodophora Dor茅 & Reid,,Chancelloriidae,Allonia,SPECIES,79.466667,40.883331
+273,Myrtaceae,Myrtaceae,-83.6,Eucalyptus globulus Labill,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-8.639617,41.089368
+274,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,9.5569,41.0952
+275,Myrtaceae,Myrtaceae,-83.6,Callistemon rigidus R.Br,Myrtales,Myrtaceae,Callistemon,SPECIES,-8.556418,41.096834
+276,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,9.4153,41.1728
+277,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,9.469078,41.205515
+278,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,16.087546,41.928208
+279,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,72.0,42.166668
+280,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,3.145964,42.442509
+281,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,11.213043,42.470429
+282,Myrtaceae,Myrtaceae,-83.6,Myrtus communis L,Myrtales,Myrtaceae,Myrtus,SPECIES,9.476594,42.611324
+283,Myrtaceae,Myrtaceae,-83.6,Eucalyptus L'H茅r,Myrtales,Myrtaceae,Eucalyptus,GENUS,2.61973,42.684013
+284,Myrtaceae,Myrtaceae,-83.6,Eucalyptus globulus Labill,Myrtales,Myrtaceae,Eucalyptus,SPECIES,-1.825347,42.684809
+285,Myrtaceae,Myrtaceae,-83.6,Acca sellowiana (Berg) Burret,Myrtales,Myrtaceae,Feijoa,SPECIES,-1.670875,43.155149
+286,Myrtaceae,Myrtaceae,-83.6,Eucalyptus L'H茅r,Myrtales,Myrtaceae,Eucalyptus,GENUS,-8.382665,43.33963
+287,Myrtaceae,Myrtaceae,-83.6,Callistemon citrinus (Curtis) Skeels,Myrtales,Myrtaceae,Callistemon,SPECIES,-8.411242,43.36184
+288,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,69.866669,43.466667
+289,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.05,46.61
+290,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.06,46.61
+291,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.08,46.61
+292,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.25,46.61
+293,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.1,46.62
+294,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.25,46.62
+295,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,14.6,46.63
+296,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,12.81,47.32
+297,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,13.1,47.69
+298,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,13.06,47.79
+299,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,13.04,47.81
+300,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,13.04,47.87
+301,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,13.04,47.88
+302,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,13.17,47.91
+303,Juglandaceae,Caryanthus sp,-83.6,Arecaceae,Arecales,Arecaceae,,FAMILY,2.30415,47.9618
+304,Juglandaceae,Caryanthus sp,-83.6,Arecaceae,Arecales,Arecaceae,,FAMILY,1.37711,48.1825
+305,Juglandaceae,Caryanthus sp,-83.6,Anatidae,Anseriformes,Anatidae,,FAMILY,16.38,48.21
+306,Juglandaceae,Caryanthus sp,-83.6,Arecaceae,Arecales,Arecaceae,,FAMILY,2.56222,49.0626
+307,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,15.0,51.166668
+308,Myrtaceae,Myrtaceae,-83.6,Callistemon citrinus (Curtis) Skeels,Myrtales,Myrtaceae,Callistemon,SPECIES,15.60322,56.24343
+309,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,86.749168,67.141113
+310,Hamamelidoideae,Allonia decandra,-83.6,Allonia Dor茅 & Reid,,Chancelloriidae,Allonia,GENUS,87.033333,67.216667
+311,Zingiberales,Spirematospermum chandlerae,-77.8,Spirematospermum Chandler,Zingiberales,Zingiberaceae,Spirematospermum,GENUS,-103.425833,50.133331
+312,Zingiberales,Spirematospermum chandlerae,-77.8,Spirematospermum Chandler,Zingiberales,Zingiberaceae,Spirematospermum,GENUS,-1.642023,50.099998
+313,Asteraceae,Tubulifloridites lilliei,-72.1,Tubulifloridites I.C.Cookson ex R.Potoni茅,Asterales,Asteraceae,Tubulifloridites,GENUS,-66.0,17.158333
+314,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-85.6511,13.235
+315,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-89.599998,13.68333
+316,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-89.933327,13.81667
+317,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-93.2,15.3575
+318,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-93.22278,16.79
+319,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-96.665,19.31
+320,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-96.75,19.86667
+321,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-98.0,22.11667
+322,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe monoica (Hemsl.) Leroy,Rosales,Cannabaceae,Aphananthe,SPECIES,-105.06667,22.56667
+323,Sabiaceae,Sabia microsperma,-66.0,Sabia campanulata Wall,Proteales,Sabiaceae,Sabia,SPECIES,79.61611,22.88361
+324,Sabiaceae,Sabia microsperma,-66.0,Sabia purpurea Hook.fil. & Thomson,Proteales,Sabiaceae,Sabia,SPECIES,79.61611,22.88361
+325,Sabiaceae,Sabia microsperma,-66.0,Sabia limoniacea Wall. ex Hook.fil. & Thomson,Proteales,Sabiaceae,Sabia,SPECIES,91.66667,24.5
+326,Sabiaceae,Sabia microsperma,-66.0,Sabia swinhoei Hemsl. ex Forbes & Hemsl,Proteales,Sabiaceae,Sabia,SPECIES,121.4645,24.74957
+327,Sabiaceae,Sabia microsperma,-66.0,Sabia swinhoei Hemsl. ex Forbes & Hemsl,Proteales,Sabiaceae,Sabia,SPECIES,121.4684,24.81857
+328,Sabiaceae,Sabia microsperma,-66.0,Sabia swinhoei Hemsl. ex Forbes & Hemsl,Proteales,Sabiaceae,Sabia,SPECIES,121.4693,24.81991
+329,Sabiaceae,Sabia microsperma,-66.0,Sabia swinhoei Hemsl. ex Forbes & Hemsl,Proteales,Sabiaceae,Sabia,SPECIES,121.531,24.85399
+330,Sabiaceae,Sabia microsperma,-66.0,Sabia swinhoei Hemsl. ex Forbes & Hemsl,Proteales,Sabiaceae,Sabia,SPECIES,121.53,24.85442
+331,Sabiaceae,Sabia microsperma,-66.0,Sabia swinhoei Hemsl. ex Forbes & Hemsl,Proteales,Sabiaceae,Sabia,SPECIES,121.5313,24.8553
+332,Sabiaceae,Sabia microsperma,-66.0,Sabia discolor Dunn,Proteales,Sabiaceae,Sabia,SPECIES,112.833333,24.983333
+333,Sabiaceae,Sabia microsperma,-66.0,Sabia japonica Maxim,Proteales,Sabiaceae,Sabia,SPECIES,111.316667,26.466667
+334,Sabiaceae,Sabia microsperma,-66.0,Sabia parviflora Wall,Proteales,Sabiaceae,Sabia,SPECIES,83.93861,28.25306
+335,Sabiaceae,Sabia microsperma,-66.0,Sabia campanulata Wall,Proteales,Sabiaceae,Sabia,SPECIES,83.93861,28.25306
+336,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,131.25362,31.99954
+337,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,131.04227,32.97658
+338,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,129.73871,33.33955
+339,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,126.33333,34.45
+340,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,137.0132,34.8698
+341,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,139.30019,35.59654
+342,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,139.10559,35.63633
+343,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,139.7137,35.68222
+344,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,139.56586,35.70767
+345,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,139.40962,36.06818
+346,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe aspera (Thunb.) Planch,Rosales,Cannabaceae,Aphananthe,SPECIES,137.583333,36.966667
+347,Sabiaceae,Sabia microsperma,-66.0,Sabia Colebr,Proteales,Sabiaceae,Sabia,GENUS,14.436111,48.936667
+348,Sabiaceae,Sabia microsperma,-66.0,Sabia Colebr,Proteales,Sabiaceae,Sabia,GENUS,14.180556,51.425
+349,Sabiaceae,Sabia microsperma,-66.0,Sabia Colebr,Proteales,Sabiaceae,Sabia,GENUS,11.523889,51.528056
+350,Cannabaceae,Aphananthe cretacea,-66.0,Aphananthe Planch,Rosales,Cannabaceae,Aphananthe,GENUS,11.484444,51.645278
+351,Sabiaceae,Sabia microsperma,-66.0,Sabia Colebr,Proteales,Sabiaceae,Sabia,GENUS,11.484444,51.645278
+352,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum M.E.J.Chandler,Sapindales,Rutaceae,Rutaspermum,GENUS,11.484444,-45.403889
+353,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum M.E.J.Chandler,Sapindales,Rutaceae,Rutaspermum,GENUS,11.886944,-43.740276
+354,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum M.E.J.Chandler,Sapindales,Rutaceae,Rutaspermum,GENUS,8.742222,-44.975834
+355,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum M.E.J.Chandler,Sapindales,Rutaceae,Rutaspermum,GENUS,11.316667,-7.0
+356,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum M.E.J.Chandler,Sapindales,Rutaceae,Rutaspermum,GENUS,-120.2476,-38.215
+357,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum M.E.J.Chandler,Sapindales,Rutaceae,Rutaspermum,GENUS,-120.376967,-45.816666
+358,Rutaceae,Rutaspermum biornatum,-66.0,Rutaspermum chandleri Collinson & Gregor,Sapindales,Rutaceae,Rutaspermum,SPECIES,8.760192,-38.23
+359,Sabiaceae,Sabia microsperma,-66.0,Sabia conica (Schumacher,Littorinimorpha,Hipponicidae,Sabia,SPECIES,40.17,-43.666668
+360,Sabiaceae,Sabia microsperma,-66.0,Sabia conica (Schumacher,Littorinimorpha,Hipponicidae,Sabia,SPECIES,39.74,24.9
+361,Sabiaceae,Sabia microsperma,-66.0,Sabia conica (Schumacher,Littorinimorpha,Hipponicidae,Sabia,SPECIES,27.85,-45.290558
+362,Juglandaceae,Polyptera manningi,-64.4,Polyptera manningii Manchester & Dilcher,Fagales,Juglandaceae,Polyptera,SPECIES,-109.20285,-49.305832
+363,Juglandaceae,Polyptera manningi,-64.4,Polyptera manningii Manchester & Dilcher,Fagales,Juglandaceae,Polyptera,SPECIES,-105.093488,-36.5
+364,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,150.615544,-34.762348
+365,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,150.616028,-34.760306
+366,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,150.869675,-34.399528
+367,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.505853,-31.644098
+368,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.40528,-31.165673
+369,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.923772,-30.813573
+370,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.918535,-30.294579
+371,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.09505,-30.240694
+372,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.138828,-30.124502
+373,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.411166,-28.903118
+374,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.310452,-28.660769
+375,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.333058,-28.318378
+376,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.26798,-28.239518
+377,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.268729,-28.238989
+378,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.268667,-28.238924
+379,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.269064,-28.238743
+380,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.241618,-28.230165
+381,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.260679,-28.215511
+382,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.193087,-28.211752
+383,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.269925,-28.210825
+384,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.271553,-28.203322
+385,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.311563,-28.192242
+386,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.308769,-28.162564
+387,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.202449,-27.931299
+388,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.193546,-27.925589
+389,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,153.204872,-27.611464
+390,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.761933,-27.32673
+391,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea woollsii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.919953,-26.823995
+392,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea australis (Benth.) F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,152.919953,-26.823995
+393,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,47.424639,-21.272392
+394,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,46.63298,-20.595751
+395,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,48.426768,-18.798441
+396,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea langii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,145.679718,-16.961957
+397,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea langii F.Muell,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,145.636379,-16.803118
+398,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,48.595498,-14.336038
+399,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,48.77846,-14.18951
+400,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,48.946002,-14.166317
+401,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea rhodantha (Baker) Capuron,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,48.947925,-14.166153
+402,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea garckeana K.Schum,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-67.873734,-9.948536
+403,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea L,Oxalidales,Elaeocarpaceae,Sloanea,GENUS,-58.1886,3.36622
+404,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea L,Oxalidales,Elaeocarpaceae,Sloanea,GENUS,-58.3223,3.40214
+405,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea grandiflora Sm,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-52.686798,4.038524
+406,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea L,Oxalidales,Elaeocarpaceae,Sloanea,GENUS,-59.1225,5.21056
+407,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea L,Oxalidales,Elaeocarpaceae,Sloanea,GENUS,-59.9748,5.37923
+408,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea L,Oxalidales,Elaeocarpaceae,Sloanea,GENUS,-60.8417,5.50075
+409,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea L,Oxalidales,Elaeocarpaceae,Sloanea,GENUS,-60.3257,6.48192
+410,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ampla I.M.Johnst,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-82.371537,8.773259
+411,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ampla I.M.Johnst,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-84.31129,10.128475
+412,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea guapilensis Standl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-83.997789,10.195016
+413,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ampla I.M.Johnst,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-84.791521,10.303512
+414,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea terniflora (Moc. & Sess茅 ex DC.) Standl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-85.480261,10.734526
+415,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea medusula K.Schum. & Pittier,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-91.309304,16.200647
+416,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea jamaicensis Hook,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-77.343928,18.183702
+417,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea berteriana Choisy ex DC,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-65.83853,18.293672
+418,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea berteriana Choisy ex DC,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-65.847862,18.299458
+419,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea berteriana Choisy ex DC,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-65.819927,18.321268
+420,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea berteriana Choisy ex DC,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-65.822941,18.327174
+421,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.01627,22.821968
+422,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,120.53634,23.12086
+423,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,120.536195,23.121033
+424,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,120.717854,23.495228
+425,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,120.712388,23.500144
+426,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.700312,24.424337
+427,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.83263,24.479704
+428,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.740018,24.534808
+429,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.740986,24.535254
+430,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.078929,24.57593
+431,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,120.977388,24.578269
+432,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.470662,24.650804
+433,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.470599,24.650883
+434,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.281882,24.738429
+435,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.660174,24.753005
+436,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.594633,24.756418
+437,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.582176,24.76197
+438,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.527078,24.827425
+439,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.408667,24.829403
+440,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.40855,24.829441
+441,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.73393,24.849913
+442,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.553582,25.015947
+443,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.55358,25.016125
+444,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea sinensis (Hance) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,110.583333,25.095833
+445,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.592827,25.131168
+446,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.593098,25.132047
+447,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.593333,25.132222
+448,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.594028,25.132364
+449,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.594066,25.132366
+450,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.594057,25.132423
+451,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea dasycarpa (Benth.) Hemsl,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,121.556001,25.239688
+452,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea tomentosa (Benth.) Rehder & E.H.Wilson,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,83.882611,28.484125
+453,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ungeri Manchester & Kvacek,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-107.884,-51.25
+454,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ungeri Manchester & Kvacek,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-107.728692,-51.25
+455,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ungeri Manchester & Kvacek,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-109.245333,-51.555
+456,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ungeri Manchester & Kvacek,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-109.200917,-42.666668
+457,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ungeri Manchester & Kvacek,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-107.078608,-64.283607
+458,Elaeocarpaceae,Sloanea ungeri,-61.6,Sloanea ungeri Manchester & Kvacek,Oxalidales,Elaeocarpaceae,Sloanea,SPECIES,-107.076639,-50.381943
+459,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,176.6,-37.9575
+460,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,149.12749,-36.24615
+461,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,138.69603,-35.02372
+462,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,150.3028,-34.653677
+463,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,150.523911,-34.0617
+464,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,151.092244,-34.054367
+465,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,151.119111,-34.034249
+466,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,151.11347,-33.993649
+467,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,151.09093,-33.809652
+468,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,151.031243,-33.748728
+469,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,150.956724,-33.731106
+470,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,150.92292,-33.674123
+471,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,150.80629,-33.55305
+472,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,2.45424,42.40355
+473,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,2.4534,42.49343
+474,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,0.62109,42.73813
+475,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,1.3528,42.75188
+476,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,5.39747,43.18757
+477,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,-0.50817,43.2472
+478,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,2.81466,43.48393
+479,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,3.18563,43.5739
+480,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,7.03119,43.67934
+481,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,5.172,43.73235
+482,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.29829,43.88417
+483,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.29824,43.88419
+484,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.184,44.06771
+485,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.18395,44.06773
+486,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,4.31788,44.37615
+487,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,-0.71204,44.50165
+488,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,4.072,44.64891
+489,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,3.44214,44.74325
+490,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.56938,44.8327
+491,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,4.33271,45.00626
+492,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,5.35901,45.25947
+493,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,5.31273,45.2745
+494,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,3.44715,45.37351
+495,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.31991,45.46399
+496,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,0.88221,45.62462
+497,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.83445,45.64145
+498,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.57771,45.64306
+499,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.45006,45.73369
+500,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.0643,45.73457
+501,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,1.26148,45.81126
+502,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,2.16283,45.82154
+503,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.28792,45.86686
+504,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.28787,45.86688
+505,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,2.03247,45.91055
+506,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.58054,45.9132
+507,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,6.42229,45.953
+508,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,1.25579,45.99131
+509,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,1.38495,45.99323
+510,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,1.51412,45.99499
+511,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,1.6433,45.99662
+512,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,3.58149,46.00325
+513,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,2.67695,46.00428
+514,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,2.67642,46.09433
+515,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,2.5455,46.27398
+516,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,5.32555,46.36321
+517,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,2.6732,46.6346
+518,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,-1.0034,46.83556
+519,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,-4.06671,48.1338
+520,Thuja,Thuja,-59.2,Thuja plicata Lamb,Pinales,Cupressaceae,Thuja,SPECIES,-4.22513,48.30488
+521,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,11.55,50.07
+522,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,5.914082,51.231766
+523,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,5.270594,51.46246
+524,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,5.258249,52.146357
+525,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,1.327543,52.685929
+526,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,1.179842,52.689987
+527,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,1.186386,52.779744
+528,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,-1.175062,53.359025
+529,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,23.664777,60.0683
+530,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,24.469307,60.122073
+531,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,19.936317,60.131223
+532,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,24.665094,60.15261
+533,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,20.012838,60.231478
+534,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,27.698909,60.56627
+535,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,21.51534,60.66216
+536,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,26.419633,60.728384
+537,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,25.63873,60.992003
+538,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,25.657203,60.992188
+539,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,25.767344,61.011192
+540,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,24.41998,61.015402
+541,Thuja,Thuja,-59.2,Thuja plicata Donn ex D.Don,Pinales,Cupressaceae,Thuja,SPECIES,24.432955,61.046264
+542,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,25.762479,62.244707
+543,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,21.226698,62.385027
+544,Thuja,Thuja,-59.2,Thuja occidentalis L,Pinales,Cupressaceae,Thuja,SPECIES,23.033875,63.824419
+545,Thuja,Thuja,-59.2,Thuja L,Pinales,Cupressaceae,Thuja,GENUS,23.031532,63.824513
+546,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,171.9117,-42.072
+547,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,145.870747,-41.11394
+548,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,144.9667,-37.8167
+549,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,144.5333,-37.4167
+550,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,138.24342,-35.59159
+551,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,138.7068,-34.98156
+552,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron indicum (L.) Sweet,Ericales,Ericaceae,Rhododendron,SPECIES,151.169053,-33.773781
+553,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron indicum (L.) Sweet,Ericales,Ericaceae,Rhododendron,SPECIES,151.112167,-33.750096
+554,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,150.328457,-33.712214
+555,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,150.375901,-33.705907
+556,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,150.686258,-33.552011
+557,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus africana var. africana,Vitales,Vitaceae,Ampelocissus,VARIETY,23.858703,-18.389683
+558,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus obtusata (Welw. ex Baker) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,23.938415,-17.64697
+559,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus gardineri (Bailey) Jackes,Vitales,Vitaceae,Ampelocissus,SPECIES,144.517206,-17.165354
+560,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus gardineri (Bailey) Jackes,Vitales,Vitaceae,Ampelocissus,SPECIES,144.395797,-17.092547
+561,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,145.754574,-16.859052
+562,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,145.728357,-16.812484
+563,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,145.694326,-16.780135
+564,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,145.674683,-16.762853
+565,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,145.674658,-16.76273
+566,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,136.906935,-12.339609
+567,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,136.843311,-12.214237
+568,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,142.220174,-10.581851
+569,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,147.175,-9.508333
+570,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,147.091667,-9.425
+571,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,147.0,-9.25
+572,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,143.166667,-9.083333
+573,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acetosa (F.Muell.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,142.083333,-9.0
+574,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus leonensis (Hook.fil.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,2.2,6.416
+575,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus Planch,Vitales,Vitaceae,Ampelocissus,GENUS,-82.61,9.6
+576,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus javalensis (Seem.) W.D.Stevens & A.Pool,Vitales,Vitaceae,Ampelocissus,SPECIES,-83.41,10.01
+577,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,75.831356,11.195992
+578,Dioon,Dioon praespinulosum,-56.0,Dioon spinulosum Dyer ex Eichler,Cycadales,Zamiaceae,Dioon,SPECIES,-89.24732,13.67031
+579,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-96.133478,15.768538
+580,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-97.076736,15.87198
+581,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-93.750263,16.11091
+582,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-93.599597,16.635261
+583,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-93.538456,16.63833
+584,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,73.349818,16.639751
+585,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-93.148209,16.777924
+586,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-93.079252,16.793617
+587,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-99.859462,16.809349
+588,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-99.861001,16.81204
+589,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-93.107031,16.827871
+590,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-99.451075,17.353833
+591,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-101.137676,17.691291
+592,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-99.942834,18.129864
+593,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,73.712938,18.376721
+594,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,73.712678,18.376951
+595,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-99.510984,18.6706
+596,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,73.335221,18.779521
+597,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-99.093512,18.82812
+598,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-101.891249,19.162862
+599,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-103.668716,19.179146
+600,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,72.902268,19.208433
+601,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,72.896873,19.210028
+602,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus latifolia (Roxb.) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,72.906531,19.298784
+603,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus acapulcensis (Kunth) Planch,Vitales,Vitaceae,Ampelocissus,SPECIES,-105.102383,21.781064
+604,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia angulata Oliv,Cornales,Cornaceae,Toricellia,SPECIES,103.880556,22.383611
+605,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,100.860736,22.697654
+606,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia,Cornales,Cornaceae,Toricellia,GENUS,103.22,22.844
+607,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,103.687613,22.983563
+608,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,98.82524,23.763342
+609,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,106.63,24.39
+610,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,100.709787,24.615701
+611,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,102.928677,24.706769
+612,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,107.54,25.59
+613,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia,Cornales,Cornaceae,Toricellia,GENUS,99.95,25.67
+614,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,98.5903,26.07
+615,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,110.85,26.43
+616,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,107.4,27.17
+617,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata Oliv,Apiales,Torricelliaceae,Torricellia,SPECIES,108.85,27.69
+618,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata Oliv,Apiales,Torricelliaceae,Torricellia,SPECIES,109.85,29.0
+619,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,107.099276,29.157849
+620,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata Oliv,Apiales,Torricelliaceae,Torricellia,SPECIES,107.766667,29.333333
+621,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,103.39,29.49
+622,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia tiliifolia DC,Apiales,Torricelliaceae,Torricellia,SPECIES,103.39,29.49
+623,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,103.398589,29.496119
+624,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,109.48,29.99
+625,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,109.65,30.016667
+626,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia angulata Oliv,Cornales,Cornaceae,Toricellia,SPECIES,110.696963,30.029155
+627,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,110.340757,31.042327
+628,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,109.41,31.05
+629,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata Oliv,Apiales,Torricelliaceae,Torricellia,SPECIES,109.41,31.05
+630,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,109.411179,31.05468
+631,Torricelliaceae,Toricellia bonesii,-56.0,Torricellia angulata var. intermedia (Harms ex Diels) Hu,Cornales,Cornaceae,Torricellia,VARIETY,109.87,31.11
+632,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,109.87945,31.114073
+633,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia A.P.de Candolle,Apiales,Torricelliaceae,Torricellia,GENUS,108.497189,31.251048
+634,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia angulata var. intermedia (Harms ex Diels) Hu,Apiales,Torricelliaceae,Torricellia,VARIETY,104.2,35.86
+635,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,138.75,36.25
+636,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,138.083328,36.416668
+637,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,138.166672,36.583332
+638,Dioon,Dioon praespinulosum,-56.0,Dioon edule Lindl,Cycadales,Zamiaceae,Dioon,SPECIES,15.08399,37.51575
+639,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,-119.648613,39.309723
+640,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-109.192833,41.289667
+641,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-109.2436,41.34175
+642,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-109.24205,41.3421
+643,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-109.253283,41.593917
+644,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Manchester,Sapindales,Sapindaceae,Aesculus,SPECIES,-108.619789,41.708328
+645,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Manchester,Sapindales,Sapindaceae,Aesculus,SPECIES,-108.872421,44.875679
+646,Torricelliaceae,Toricellia bonesii,-56.0,Toricellia bonesii Manchester,Apiales,Torricelliaceae,Torricellia,SPECIES,-120.431622,44.923222
+647,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus Planch,Vitales,Vitaceae,Ampelocissus,GENUS,-120.431622,44.923222
+648,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,-113.883331,45.183334
+649,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-106.160786999083,45.2643563581228
+650,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-106.506631787179,45.3271869215534
+651,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-106.538383,45.341517
+652,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-106.531133,45.345017
+653,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-106.311233,45.432383
+654,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-106.313433,45.4331
+655,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ferrugineum L,Ericales,Ericaceae,Rhododendron,SPECIES,12.9367,46.6364
+656,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-102.12385,46.923317
+657,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ferrugineum L,Ericales,Ericaceae,Rhododendron,SPECIES,14.6761,46.9422
+658,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-102.05325,46.966583
+659,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-101.5663,47.009767
+660,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.27258,47.26301
+661,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-102.109433,47.312867
+662,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,5.0292,47.3161
+663,Vitaceae,Ampelocissus parvisemina,-56.0,Ampelocissus Planch,Vitales,Vitaceae,Ampelocissus,GENUS,-103.438565263126,47.3726977101549
+664,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.309,47.3929
+665,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.27013,47.44305
+666,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.29751,47.458
+667,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ferrugineum L,Ericales,Ericaceae,Rhododendron,SPECIES,1.33869,47.52351
+668,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.26891,47.53306
+669,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,13.5833,47.55
+670,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,13.6667,47.55
+671,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,13.5,47.6
+672,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,13.5833,47.6
+673,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,13.5,47.65
+674,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,13.5044,47.6839
+675,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ferrugineum L,Ericales,Ericaceae,Rhododendron,SPECIES,1.33308,47.7035
+676,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,14.3306,47.7761
+677,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron hirsutum L,Ericales,Ericaceae,Rhododendron,SPECIES,14.0914,47.8464
+678,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.2355,47.8873
+679,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.2627,47.98306
+680,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.22232,47.9959
+681,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,0.91915,48.05698
+682,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Manchester,Sapindales,Sapindaceae,Aesculus,SPECIES,-103.833336,48.066666
+683,Sapindaceae,Aesculus hickeyi,-56.0,Aesculus hickeyi Anonymus,Sapindales,Sapindaceae,Aesculus,SPECIES,-103.786389,48.093333
+684,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,0.914701,48.0948
+685,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,0.91205,48.23688
+686,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,0.832834,48.2724
+687,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,0.797159,48.323
+688,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,0.77362,48.32436
+689,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,1.98255,48.61083
+690,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.11819,48.61191
+691,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.02826,48.623
+692,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.02826,48.623
+693,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,1.70907,48.69814
+694,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,1.75054,48.7192
+695,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,1.65737,48.7394
+696,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.53997,48.7622
+697,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.82946,48.7764
+698,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.76707,48.7866
+699,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,1.70684,48.78807
+700,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.5235,48.79411
+701,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.65962,48.79458
+702,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.79575,48.79489
+703,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.18692,48.8434
+704,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.27356,49.0216
+705,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,1.70012,49.05781
+706,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,2.24737,49.06248
+707,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,1.73316,49.0882
+708,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,1.69849,49.1184
+709,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz,Ericales,Ericaceae,Rhododendron,SUBSPECIES,1.97195,49.15036
+710,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,2.03549,49.1782
+711,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,-121.133331,50.783333
+712,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,10.066667,50.966667
+713,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,4.367281,51.401264
+714,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,5.793785,51.968778
+715,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,6.085711,52.174857
+716,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,6.773951,52.219454
+717,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,5.141977,52.240377
+718,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,6.837884,52.424747
+719,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,6.734184,52.431131
+720,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron L,Ericales,Ericaceae,Rhododendron,GENUS,6.250704,52.495897
+721,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron ponticum L,Ericales,Ericaceae,Rhododendron,SPECIES,6.669862,53.188098
+722,Dioon,Dioon praespinulosum,-56.0,Dioon Lindl,Cycadales,Zamiaceae,Dioon,GENUS,-133.820999,56.877998
+723,Dioon,Dioon praespinulosum,-56.0,Dioon spinulosum Dyer ex Eichler,Cycadales,Zamiaceae,Dioon,SPECIES,18.0471,59.37
+724,Dioon,Dioon praespinulosum,-56.0,Dioon edule Lindl,Cycadales,Zamiaceae,Dioon,SPECIES,10.671,63.434
+725,Rhododendron,Rhododendron newburyanum,-56.0,Rhododendron lapponicum (L.) Wahlenb,Ericales,Ericaceae,Rhododendron,SPECIES,20.941887,68.92516
+726,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,168.8827,-44.9866
+727,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,175.4468,-36.8884
+728,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,175.3507,-36.0799
+729,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,138.56962,-35.45703
+730,Physalis,Physalis infinemundi,-52.2,Physalis hederifolia A.Gray,Solanales,Solanaceae,Physalis,SPECIES,138.10627,-34.13442
+731,Physalis,Physalis infinemundi,-52.2,Physalis ixocarpa Brot. ex Hornem,Solanales,Solanaceae,Physalis,SPECIES,-8.32,37.13
+732,Physalis,Physalis infinemundi,-52.2,Physalis philadelphica Lam,Solanales,Solanaceae,Physalis,SPECIES,-3.11,40.47
+733,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,5.8956,45.26347
+734,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,5.871755,45.63039
+735,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-3.366302,51.376078
+736,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-3.515873,51.554082
+737,Physalis,Physalis infinemundi,-52.2,Physalis philadelphica Lam,Solanales,Solanaceae,Physalis,SPECIES,-4.240976,51.632398
+738,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,4.08855,51.837901
+739,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,5.984,51.856273
+740,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,5.98422,51.856433
+741,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,5.94533,51.862143
+742,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,5.99123,51.870733
+743,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,5.93163,51.871413
+744,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,6.05081,51.871823
+745,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,5.93182,51.879773
+746,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,6.01513,51.883223
+747,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,6.01516,51.883271
+748,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,5.90275,51.978803
+749,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,1.468096,52.591956
+750,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-2.771999,53.593081
+751,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-2.713999,53.737256
+752,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-2.381632,53.864608
+753,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,14.76446,55.05774
+754,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,9.90384,55.34933
+755,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-4.613171,55.490862
+756,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,8.37907,55.51759
+757,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-4.672457,55.54801
+758,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,11.1817,55.59345
+759,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,8.85886,55.60011
+760,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,12.2089,55.68125
+761,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,12.22883,55.8654
+762,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-4.719376,55.996413
+763,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-4.649461,56.029395
+764,Physalis,Physalis infinemundi,-52.2,Physalis alkekengi L,Solanales,Solanaceae,Alkekengi,SPECIES,9.97271,56.06019
+765,Physalis,Physalis infinemundi,-52.2,Physalis angulata L,Solanales,Solanaceae,Physalis,SPECIES,-3.369429,56.140106
+766,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,-3.258912,57.668602
+767,Physalis,Physalis infinemundi,-52.2,Physalis philadelphica Lam,Solanales,Solanaceae,Physalis,SPECIES,7.97986,58.111748
+768,Physalis,Physalis infinemundi,-52.2,Physalis philadelphica Lam,Solanales,Solanaceae,Physalis,SPECIES,7.979833,58.112042
+769,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,7.958355,58.13486
+770,Physalis,Physalis infinemundi,-52.2,Physalis philadelphica Lam,Solanales,Solanaceae,Physalis,SPECIES,8.001043,58.13845
+771,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,8.044108,58.16473
+772,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,7.944296,58.167042
+773,Physalis,Physalis infinemundi,-52.2,Physalis virginiana Mill,Solanales,Solanaceae,Physalis,SPECIES,10.044611,59.045548
+774,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.040434,59.05536
+775,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.962609,59.17694
+776,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.966283,59.177234
+777,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.9633,59.177381
+778,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.960965,59.177823
+779,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.962231,59.178523
+780,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.967998,59.1792
+781,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.965708,59.179687
+782,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.964145,59.179973
+783,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.963902,59.180203
+784,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.965043,59.180318
+785,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.96622,59.18041
+786,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.964118,59.180916
+787,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.966139,59.184345
+788,Physalis,Physalis infinemundi,-52.2,Physalis virginiana Mill,Solanales,Solanaceae,Physalis,SPECIES,10.952529,59.195388
+789,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.968052,59.220432
+790,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.297658,59.29701
+791,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.707379,59.438782
+792,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.708529,59.439061
+793,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.708601,59.4415
+794,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.71135,59.442276
+795,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,11.159798,59.606901
+796,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,11.304319,59.645592
+797,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.273214,59.686732
+798,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.277149,59.688795
+799,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.030867,59.745043
+800,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.61479,59.892239
+801,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.596904,59.894361
+802,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.602752,59.895861
+803,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.722031,59.93218
+804,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.886773,59.948366
+805,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,11.065825,60.007415
+806,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,10.336546,60.22434
+807,Physalis,Physalis infinemundi,-52.2,Physalis philadelphica Lam,Solanales,Solanaceae,Physalis,SPECIES,10.336546,60.22434
+808,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,24.97392,60.238062
+809,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,24.996659,60.239237
+810,Physalis,Physalis infinemundi,-52.2,Physalis peruviana L,Solanales,Solanaceae,Physalis,SPECIES,11.368288,61.175849
+811,Physalis,Physalis infinemundi,-52.2,Physalis L,Solanales,Solanaceae,Physalis,GENUS,25.667788,62.217816
+812,Prunus,Prunus cathybrownae,-49.4,Prunus persica (L.) Batsch,Rosales,Rosaceae,Prunus,SPECIES,167.735,-47.0605
+813,Prunus,Prunus cathybrownae,-49.4,Prunus cerasifera Ehrh,Rosales,Rosaceae,Prunus,SPECIES,169.3031,-45.2215
+814,Prunus,Prunus cathybrownae,-49.4,Prunus avium (L.) L,Rosales,Rosaceae,Prunus,SPECIES,169.3031,-45.2215
+815,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,171.6186,-43.0956
+816,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,175.0763,-39.1914
+817,Prunus,Prunus cathybrownae,-49.4,Prunus serrulata Lindl,Rosales,Rosaceae,Prunus,SPECIES,176.3393,-38.1757
+818,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,176.3583,-37.7259
+819,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,176.3579,-37.7248
+820,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,176.3574,-37.7245
+821,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,138.75,36.25
+822,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-120.593056,37.611942
+823,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-117.883331,39.25
+824,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-119.648613,39.309723
+825,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-119.366669,39.583332
+826,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-119.349998,39.583332
+827,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-107.866997,39.778999
+828,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,7.983333,48.799999
+829,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,10.166667,50.616669
+830,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,10.866667,50.766666
+831,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,-121.133331,50.783333
+832,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,14.616667,50.933334
+833,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,10.066667,50.966667
+834,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,14.6,51.433334
+835,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,14.7,51.516666
+836,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,13.9,51.549999
+837,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,14.0,51.549999
+838,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,13.766667,51.733334
+839,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,83.0,56.0
+840,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,83.0,57.0
+841,Prunus,Prunus cathybrownae,-49.4,Prunus L,Rosales,Rosaceae,Prunus,GENUS,81.0,59.049999
+842,Prunus,Prunus cathybrownae,-49.4,Prunus cerasus L,Rosales,Rosaceae,Prunus,SPECIES,10.95225,59.207848
+843,Prunus,Prunus cathybrownae,-49.4,Prunus domestica L,Rosales,Rosaceae,Prunus,SPECIES,5.292293,59.427342
+844,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,10.782029,59.868754
+845,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,10.483508,59.908666
+846,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.251828,60.256992
+847,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.278833,60.30197
+848,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.284342,60.306727
+849,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.387305,60.309995
+850,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.363031,60.348832
+851,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.297815,60.355272
+852,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,5.334046,60.395689
+853,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,6.501315,60.451039
+854,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,6.4084,60.609126
+855,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,7.106173,60.950724
+856,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,6.710936,61.905076
+857,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,6.94931,62.055878
+858,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,6.869184,62.083329
+859,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,6.067916,62.344498
+860,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,10.445353,63.450406
+861,Prunus,Prunus cathybrownae,-49.4,Prunus padus L,Rosales,Rosaceae,Prunus,SPECIES,14.463886,67.278069
+862,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,32.125,-28.375
+863,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,134.48944,-25.735
+864,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,57.583333,-20.3
+865,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-56.087017,-19.588499
+866,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-149.831,-17.5227
+867,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,35.147543,-16.276491
+868,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-56.611519,-13.498476
+869,Anacardium,Anacardium germanicum,-47.8,Anacardium spruceanum Benth. ex Engl,Sapindales,Anacardiaceae,Anacardium,SPECIES,-53.08982,-10.773109
+870,Anacardium,Anacardium germanicum,-47.8,Anacardium giganteum Hancock ex Engl,Sapindales,Anacardiaceae,Anacardium,SPECIES,-53.08982,-10.773109
+871,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-56.097115,-9.877921
+872,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-55.931152,-9.597601
+873,Anacardium,Anacardium germanicum,-47.8,Anacardium giganteum Hancock ex Engl,Sapindales,Anacardiaceae,Anacardium,SPECIES,-55.931152,-9.597601
+874,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,147.508333,-9.425
+875,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,147.575,-9.091667
+876,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,146.666667,-7.266667
+877,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,146.7,-7.25
+878,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,146.675,-7.175
+879,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,146.875,-7.175
+880,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,146.666667,-7.166667
+881,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,147.0,-6.75
+882,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,147.0,-6.666667
+883,Meliaceae,Toona sulcata,-47.8,Toona sureni (Blume) Merr,Sapindales,Meliaceae,Toona,SPECIES,145.583333,-6.5
+884,Anacardium,Anacardium germanicum,-47.8,Anacardium L,Sapindales,Anacardiaceae,Anacardium,GENUS,-80.160004,-5.0272
+885,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,55.393196,-4.621212
+886,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,138.5,-4.0
+887,Meliaceae,Toona sulcata,-47.8,Toona inodora (Hassk.) Reid & Chandler,Sapindales,Meliaceae,Toona,SPECIES,117.30056,-2.23028
+888,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,133.016667,-0.833333
+889,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,134.0,-0.833333
+890,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,103.730499,1.337343
+891,Anacardium,Anacardium germanicum,-47.8,Anacardium fruticosum J.D.Mitch. & S.A.Mori,Sapindales,Anacardiaceae,Anacardium,SPECIES,-60.7844,5.55933
+892,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,6.736541,5.561365
+893,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,6.738524,5.567082
+894,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,6.738185,5.569101
+895,Anacardium,Anacardium germanicum,-47.8,Anacardium fruticosum J.D.Mitch. & S.A.Mori,Sapindales,Anacardiaceae,Anacardium,SPECIES,-60.7965,5.57364
+896,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-54.014311,5.713241
+897,Anacardium,Anacardium germanicum,-47.8,Anacardium fruticosum J.D.Mitch. & S.A.Mori,Sapindales,Anacardiaceae,Anacardium,SPECIES,-60.2637,5.77697
+898,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,79.910263,7.205685
+899,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,80.640945,7.299712
+900,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,99.033333,7.608333
+901,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,98.815,8.043333
+902,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-83.602524,8.797547
+903,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-83.855904,9.246078
+904,Meliaceae,Toona sulcata,-47.8,Toona ciliata subsp. ciliata,Sapindales,Meliaceae,Toona,SUBSPECIES,-84.05,9.88
+905,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-61.626778,10.234646
+906,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-84.892044,10.511442
+907,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-61.396236,10.66259
+908,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,106.681931,10.82903
+909,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,99.271683,11.138454
+910,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,107.458,11.4203
+911,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-16.654222,13.19236
+912,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-16.649094,13.393126
+913,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-16.702743,13.460071
+914,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-16.69835,13.464244
+915,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-16.696987,13.472602
+916,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-61.0,14.666667
+917,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,74.0124,15.4295
+918,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-88.684767,17.217668
+919,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-77.319014,18.151419
+920,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,96.50694,21.15444
+921,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,109.49222,24.32306
+922,Meliaceae,Toona sulcata,-47.8,Toona ciliata M.Roem,Sapindales,Meliaceae,Toona,SPECIES,83.93861,28.25306
+923,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,133.536753,33.561003
+924,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,103.89167,36.52
+925,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,138.17114,36.52775
+926,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,138.16183,36.66956
+927,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,138.03366,36.70014
+928,Anacardium,Anacardium germanicum,-47.8,Anacardium occidentale L,Sapindales,Anacardiaceae,Anacardium,SPECIES,-77.0155,38.816
+929,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,-76.9731,38.9089
+930,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,140.49759,39.15461
+931,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,140.20972,39.38911
+932,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,140.26509,39.57256
+933,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,5.0495,47.24718
+934,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,5.0292,47.3161
+935,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,5.05294,47.33718
+936,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,4.92055,47.33944
+937,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,6.135878,49.607957
+938,Meliaceae,Toona sulcata,-47.8,Toona (Endl.) M.Roem,Sapindales,Meliaceae,Toona,GENUS,-0.65,50.783333
+939,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,7.542286,51.515259
+940,Meliaceae,Toona sulcata,-47.8,Toona sinensis (A.Juss.) M.Roem,Sapindales,Meliaceae,Toona,SPECIES,7.950153,51.616657
+941,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia yunnanensis W.C.Cheng & C.D.Chu,Huerteales,Tapisciaceae,Tapiscia,SPECIES,99.92854,24.580446
+942,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,113.217309,25.22845
+943,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia yunnanensis W.C.Cheng & C.D.Chu,Huerteales,Tapisciaceae,Tapiscia,SPECIES,98.685,25.706667
+944,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia yunnanensis W.C.Cheng & C.D.Chu,Huerteales,Tapisciaceae,Tapiscia,SPECIES,98.696389,25.739444
+945,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,111.009947,25.897942
+946,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia yunnanensis W.C.Cheng & C.D.Chu,Huerteales,Tapisciaceae,Tapiscia,SPECIES,98.575256,26.122698
+947,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,103.676251,28.685449
+948,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,110.234088,28.812239
+949,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,106.266667,29.3
+950,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,103.398589,29.496119
+951,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,103.231884,29.73797
+952,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,119.366283,30.196022
+953,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,119.436458,30.353794
+954,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,108.313898,30.705636
+955,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,104.088668,30.710589
+956,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,112.261267,30.973316
+957,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,103.612264,30.996299
+958,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,110.340757,31.042327
+959,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia Oliv,Huerteales,Tapisciaceae,Tapiscia,GENUS,-120.431622,44.923222
+960,Tapisciaceae,Tapiscia occidentalis,-37.8,Staphyleaceae,Crossosomatales,Staphyleaceae,,FAMILY,-120.431622,44.923222
+961,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia Oliv,Huerteales,Tapisciaceae,Tapiscia,GENUS,-120.426109,44.943333
+962,Tapisciaceae,Tapiscia occidentalis,-37.8,Tapiscia sinensis Oliv,Huerteales,Tapisciaceae,Tapiscia,SPECIES,-123.25081,49.25408
+963,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,152.464706,-31.700564
+964,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,152.464705,-31.700562
+965,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,152.576636,-31.690202
+966,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,152.587383,-30.640545
+967,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.269705,-28.176408
+968,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.2529,-28.16331
+969,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.310035,-28.072279
+970,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.284394,-28.026955
+971,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.052392,-27.999558
+972,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.096966,-27.976318
+973,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.051811,-27.972259
+974,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.184407,-27.867059
+975,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.082046,-27.84633
+976,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,153.014824,-27.822888
+977,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,152.75,-27.316667
+978,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,152.689077,-27.167634
+979,Lepidozamia,Lepidozamia foveolata,-33.9,Macrozamia denisonii C.Moore & F.Muell,Cycadales,Zamiaceae,Lepidozamia,SPECIES,135.0,-25.0
+980,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,146.11567,-17.969627
+981,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,146.008223,-17.846646
+982,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,146.0,-17.6
+983,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,145.2025,-16.460833
+984,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,145.515248,-16.304383
+985,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,145.417183,-16.159106
+986,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,145.435638,-16.123665
+987,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,-82.55,27.3333
+988,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,-82.40779,29.61244
+989,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,-117.16666,32.66666
+990,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,-25.670897,37.748833
+991,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia hopei Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,-90.2589,38.6141
+992,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,-93.178,44.7316
+993,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia peroffskyana Regel,Cycadales,Zamiaceae,Lepidozamia,SPECIES,10.671,63.434
+994,Lepidozamia,Lepidozamia foveolata,-33.9,Lepidozamia foveolata Hill,Cycadales,Zamiaceae,Lepidozamia,SPECIES,150.083328,50.732126
+995,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-58.485001,-62.166111
+996,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,145.333328,-42.150002
+997,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,144.21666,-37.583332
+998,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,145.699997,-17.366667
+999,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,35.334702,-2.989
+1000,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,103.32,-2.23
+1001,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,35.799999,0.8833
+1002,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-82.74555,9.0842
+1003,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-86.619143,14.819222
+1004,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,109.74159,19.200505
+1005,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-101.316666,25.516666
+1006,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,135.350006,34.450001
+1007,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,135.766663,35.083332
+1008,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,2.036667,43.332222
+1009,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-112.163612,45.195278
+1010,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-103.764442,46.018612
+1011,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-103.875832,46.292778
+1012,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-103.864441,46.321945
+1013,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-103.874443,46.346943
+1014,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,-103.951385,46.389721
+1015,Rhamnaceae,Rhamnaceae,72.1,Rhamnaceae,Rosales,Rhamnaceae,,FAMILY,0.083333,50.783333
+1016,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.793831,54.876494
+1017,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.422091,54.955476
+1018,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.41456,54.96012
+1019,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.110014,54.961295
+1020,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.797833,54.966313
+1021,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.400028,54.978386
+1022,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.104325,55.00184
+1023,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.652282,55.035784
+1024,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.652652,55.044766
+1025,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.645383,55.058346
+1026,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.546765,55.074281
+1027,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.02159,55.155044
+1028,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.02159,55.155044
+1029,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.967128,55.233326
+1030,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.809973,55.235759
+1031,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-2.712576,55.426821
+1032,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-2.872546,55.515643
+1033,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.783931,55.666879
+1034,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.158793,55.851585
+1035,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.75107,55.861205
+1036,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.679402,55.866697
+1037,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.146229,55.94021
+1038,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.146229,55.94021
+1039,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.323431,55.946095
+1040,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.202943,55.962133
+1041,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.202943,55.962133
+1042,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-2.722454,55.965887
+1043,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.173511,56.128573
+1044,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.21499,56.150304
+1045,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.206581,56.158093
+1046,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.379094,56.409557
+1047,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-5.652928,56.4533
+1048,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.588139,56.564299
+1049,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.561764,56.575865
+1050,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.548394,56.587263
+1051,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.384499,56.933505
+1052,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.745841,57.375449
+1053,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.680709,57.394827
+1054,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.592409,57.558432
+1055,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-3.757238,57.572819
+1056,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.613302,57.575839
+1057,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.613142,57.575932
+1058,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-2.586991,57.583679
+1059,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,-4.280943,57.923853
+1060,Rhamnaceae,Rhamnaceae,72.1,Rhamnus cathartica L.,Rosales,Rhamnaceae,Rhamnus,SPECIES,-3.421623,58.398315
+1061,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,9.496015,59.298535
+1062,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,10.782029,59.868754
+1063,Rhamnaceae,Rhamnaceae,72.1,Frangula alnus Mill.,Rosales,Rhamnaceae,Frangula,SPECIES,10.485941,63.392056
+1064,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia acutifolia Kirk,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,170.461111,-43.155556
+1065,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia acutifolia Kirk,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,170.65,-43.033333
+1066,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia acutifolia Kirk,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,171.95,-42.15
+1067,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia acutifolia Kirk,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,171.866667,-42.133333
+1068,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia serrata A.Cunn.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,171.78,-41.83889
+1069,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia serrata A.Cunn.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,171.724573,-41.7497
+1070,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia acutifolia Kirk,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,172.183333,-41.15
+1071,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia serrata A.Cunn.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,175.122893,-37.990602
+1072,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia serrata A.Cunn.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,175.115926,-37.97627
+1073,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia serrata A.Cunn.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,175.5375,-37.1383
+1074,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia serrata A.Cunn.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,174.916667,-36.916667
+1075,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia acutifolia Kirk,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,175.383333,-36.183333
+1076,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia sieberi A.DC.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,150.366667,-33.7
+1077,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia sieberi A.DC.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,150.241667,-33.679167
+1078,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia verdonii F.Muell.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,152.783333,-30.25
+1079,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia sieberi A.DC.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,153.289497,-28.234417
+1080,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia verdonii F.Muell.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,153.266667,-28.166667
+1081,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia verdonii F.Muell.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,153.27444,-28.142427
+1082,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia sieberi A.DC.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,134.48944,-25.735
+1083,Paracryphiaceae,Paracryphiaceae,78.9,Sphenostemon pachycladus Baill.,Paracryphiales,Paracryphiaceae,Sphenostemon,SPECIES,166.512893,-22.161459
+1084,Paracryphiaceae,Paracryphiaceae,78.9,Sphenostemon pachycladus Baill.,Paracryphiales,Paracryphiaceae,Sphenostemon,SPECIES,166.606612,-22.115247
+1085,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia A.DC.,Paracryphiales,Paracryphiaceae,Quintinia,GENUS,165.616667,-21.5
+1086,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia neoebudica (Guillaumin) Guillaumin,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,169.797891,-20.21743
+1087,Paracryphiaceae,Paracryphiaceae,78.9,Sphenostemon lobosporus (F.Muell.) L.S.Sm.,Paracryphiales,Paracryphiaceae,Sphenostemon,SPECIES,145.48333,-17.26666
+1088,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia quatrefagesii F.Muell.,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,145.85,-17.25
+1089,Paracryphiaceae,Paracryphiaceae,78.9,Sphenostemon lobosporus (F.Muell.) L.S.Sm.,Paracryphiales,Paracryphiaceae,Sphenostemon,SPECIES,145.6725,-17.221944
+1090,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia neoebudica (Guillaumin) Guillaumin,Paracryphiales,Paracryphiaceae,Quintinia,SPECIES,166.756982,-15.361891
+1091,Paracryphiaceae,Paracryphiaceae,78.9,Quintinia A.DC.,Paracryphiales,Paracryphiaceae,Quintinia,GENUS,166.923085,-15.350347
+1092,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,146.894866,-43.581671
+1093,Cornales,Cornales,89.8,Hydrangea L.,Cornales,Hydrangeaceae,Hydrangea,GENUS,146.886552,-43.550211
+1094,Cornales,Cornales,89.8,Philadelphus mexicanus Schltdl.,Cornales,Hydrangeaceae,Philadelphus,SPECIES,146.165062,-43.421096
+1095,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,146.165062,-43.421096
+1096,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,146.131184,-43.371319
+1097,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.901247,-43.254084
+1098,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,146.048018,-42.766429
+1099,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.696437,-42.57115
+1100,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.541874,-42.354052
+1101,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,146.291259,-41.572152
+1102,Cornales,Cornales,89.8,Hydrangea L.,Cornales,Hydrangeaceae,Hydrangea,GENUS,145.523723,-41.144217
+1103,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,148.316672,-40.266659
+1104,Ericales,Ericales,89.8,Brachyloma Sond.,Ericales,Ericaceae,Brachyloma,GENUS,146.615005,-38.23
+1105,Ericales,Ericales,89.8,Rapanea Aubl.,Ericales,Primulaceae,Myrsine,GENUS,146.615005,-38.23
+1106,Ericales,Ericales,89.8,Rapanea Aubl.,Ericales,Primulaceae,Myrsine,GENUS,146.5625,-38.215
+1107,Ericales,Ericales,89.8,Brachyloma Sond.,Ericales,Ericaceae,Brachyloma,GENUS,146.5625,-38.215
+1108,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.4975,-37.95167
+1109,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.35965,-37.88182
+1110,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.32574,-37.87996
+1111,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.32576,-37.87984
+1112,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.34274,-37.87771
+1113,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.35694,-37.87306
+1114,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.35,-37.86667
+1115,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.35504,-37.85858
+1116,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.36027,-37.8585
+1117,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.35726,-37.8572
+1118,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.3858,-37.85137
+1119,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.38547,-37.85079
+1120,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34485,-37.8455
+1121,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34702,-37.84541
+1122,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34481,-37.84537
+1123,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.3448,-37.84534
+1124,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34513,-37.84527
+1125,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34487,-37.84526
+1126,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34511,-37.84511
+1127,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.34514,-37.84503
+1128,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.35194,-37.8425
+1129,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.37095,-37.83428
+1130,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.35097,-37.831
+1131,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,145.37694,-37.82278
+1132,Cornales,Cornales,89.8,Hydrangeaceae,Cornales,Hydrangeaceae,,FAMILY,144.9667,-37.8167
+1133,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,145.71926,-37.7142
+1134,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,144.21666,-37.583332
+1135,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,147.21583,-36.80139
+1136,Cornales,Cornales,89.8,Cornus capitata Wall.,Cornales,Cornaceae,Cornus,SPECIES,147.2096,-36.7818
+1137,Cornales,Cornales,89.8,Hydrangea macrophylla (Thunb.) Ser.,Cornales,Hydrangeaceae,Hydrangea,SPECIES,138.71438,-34.98457
+1138,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,18.9604,-34.3201
+1139,Ericales,Ericales,89.8,Camellia L.,Ericales,Theaceae,Camellia,GENUS,151.2325,-33.9911
+1140,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,23.1523,-33.9485
+1141,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,25.2492,-33.5905
+1142,Cornales,Cornales,89.8,Cornus L.,Cornales,Cornaceae,Cornus,GENUS,159.07,-31.5
+1143,Clusiaceae,Clusiaceae,89.8,Rheedia brasiliensis (C.Mart.) Planch. & Triana,Malpighiales,Clusiaceae,Garcinia,SPECIES,-56.087017,-19.588499
+1144,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,32.8359,-19.3949
+1145,Clusiaceae,Clusiaceae,89.8,Garcinia xanthochymus Hook.f. ex T.Anderson,Malpighiales,Clusiaceae,Garcinia,SPECIES,-149.894,-17.4906
+1146,Ericales,Ericales,89.8,Rapanea Aubl.,Ericales,Primulaceae,Myrsine,GENUS,145.699997,-17.366667
+1147,Clusiaceae,Clusiaceae,89.8,Allanblackia stuhlmannii (Engl.) Engl.,Malpighiales,Clusiaceae,Allanblackia,SPECIES,38.601837,-5.161557
+1148,Clusiaceae,Clusiaceae,89.8,Allanblackia stuhlmannii (Engl.) Engl.,Malpighiales,Clusiaceae,Allanblackia,SPECIES,38.628765,-5.101566
+1149,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,121.647,-3.78147
+1150,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-79.099724,-3.398889
+1151,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-77.848595,-0.91483
+1152,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,123.9,0.56
+1153,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-58.1674,3.36636
+1154,Clusiaceae,Clusiaceae,89.8,Tovomita Aubl.,Malpighiales,Clusiaceae,Tovomita,GENUS,-58.3223,3.40214
+1155,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-52.68,4.03
+1156,Ericales,Ericales,89.8,Gustavia L.,Ericales,Lecythidaceae,Gustavia,GENUS,-52.68,4.03
+1157,Ericales,Ericales,89.8,Ebenaceae,Ericales,Ebenaceae,,FAMILY,-52.68,4.03
+1158,Clusiaceae,Clusiaceae,89.8,Clusia major L.,Malpighiales,Clusiaceae,Clusia,SPECIES,-61.092869,4.592852
+1159,Clusiaceae,Clusiaceae,89.8,Clusia grandiflora Splitg.,Malpighiales,Clusiaceae,Clusia,SPECIES,-55.170101,4.9432
+1160,Clusiaceae,Clusiaceae,89.8,Symphonia globulifera L.fil.,Malpighiales,Clusiaceae,Symphonia,SPECIES,6.297911,5.028571
+1161,Clusiaceae,Clusiaceae,89.8,Symphonia globulifera L.fil.,Malpighiales,Clusiaceae,Symphonia,SPECIES,6.298367,5.029795
+1162,Clusiaceae,Clusiaceae,89.8,Symphonia globulifera L.fil.,Malpighiales,Clusiaceae,Symphonia,SPECIES,6.298429,5.029864
+1163,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,36.035999,5.043
+1164,Clusiaceae,Clusiaceae,89.8,Moronobea Aubl.,Malpighiales,Clusiaceae,Moronobea,GENUS,-59.8542,5.075
+1165,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-59.3133,5.30028
+1166,Clusiaceae,Clusiaceae,89.8,Rheedia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,-58.9808,5.34139
+1167,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-59.9626,5.37356
+1168,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-59.9748,5.37923
+1169,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-59.976,5.39004
+1170,Clusiaceae,Clusiaceae,89.8,Clusia grandiflora Splitg.,Malpighiales,Clusiaceae,Clusia,SPECIES,-60.8457,5.50186
+1171,Clusiaceae,Clusiaceae,89.8,Clusia grandiflora Splitg.,Malpighiales,Clusiaceae,Clusia,SPECIES,-60.7703,5.51919
+1172,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.7703,5.51919
+1173,Clusiaceae,Clusiaceae,89.8,Clusia grandiflora Splitg.,Malpighiales,Clusiaceae,Clusia,SPECIES,-60.9289,5.54725
+1174,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.2782,5.69614
+1175,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.2989,5.70636
+1176,Clusiaceae,Clusiaceae,89.8,Moronobea Aubl.,Malpighiales,Clusiaceae,Moronobea,GENUS,-60.3022,5.70933
+1177,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.3022,5.70933
+1178,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.6403,5.7135
+1179,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,-60.632,5.71453
+1180,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.632,5.71453
+1181,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.2353,5.80742
+1182,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.2393,5.80961
+1183,Clusiaceae,Clusiaceae,89.8,Moronobea jenmanii Engl.,Malpighiales,Clusiaceae,Moronobea,SPECIES,-60.2257,5.81533
+1184,Clusiaceae,Clusiaceae,89.8,Symphonia L.fil.,Malpighiales,Clusiaceae,Symphonia,GENUS,-60.1557,5.86233
+1185,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.5847,6.33178
+1186,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.5755,6.33931
+1187,Clusiaceae,Clusiaceae,89.8,Moronobea Aubl.,Malpighiales,Clusiaceae,Moronobea,GENUS,-60.3754,6.36042
+1188,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-60.3741,6.36614
+1189,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-60.3781,6.37539
+1190,Clusiaceae,Clusiaceae,89.8,Tovomita Aubl.,Malpighiales,Clusiaceae,Tovomita,GENUS,-60.3724,6.37861
+1191,Cornales,Cornales,89.8,Loasaceae,Cornales,Loasaceae,,FAMILY,-80.102665,8.507188
+1192,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-61.0,10.0
+1193,Clusiaceae,Clusiaceae,89.8,Symphonia globulifera L.fil.,Malpighiales,Clusiaceae,Symphonia,SPECIES,-61.187496,10.603245
+1194,Ericales,Ericales,89.8,Sapotaceae,Ericales,Sapotaceae,,FAMILY,-61.5,10.65
+1195,Clusiaceae,Clusiaceae,89.8,Clusia grandiflora Splitg.,Malpighiales,Clusiaceae,Clusia,SPECIES,-60.609856,11.28717
+1196,Clusiaceae,Clusiaceae,89.8,Garcinia hopii H.Toyama & V.S.Dang,Malpighiales,Clusiaceae,Garcinia,SPECIES,108.713889,12.190278
+1197,Clusiaceae,Clusiaceae,89.8,Garcinia nigrolineata Planch. ex T.Anderson,Malpighiales,Clusiaceae,Garcinia,SPECIES,107.205556,12.204444
+1198,Clusiaceae,Clusiaceae,89.8,Garcinia merguensis Wight,Malpighiales,Clusiaceae,Garcinia,SPECIES,108.35,12.395833
+1199,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,108.311389,14.758889
+1200,Clusiaceae,Clusiaceae,89.8,Clusia gundlachii Stahl,Malpighiales,Clusiaceae,Clusia,SPECIES,-66.9995,18.1574
+1201,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-71.6647,18.3335
+1202,Clusiaceae,Clusiaceae,89.8,Clusia major L.,Malpighiales,Clusiaceae,Clusia,SPECIES,-70.648911,19.115515
+1203,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,93.3982,21.3892
+1204,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,93.3999,21.3981
+1205,Clusiaceae,Clusiaceae,89.8,Garcinia L.,Malpighiales,Clusiaceae,Garcinia,GENUS,103.626917,22.627472
+1206,Clusiaceae,Clusiaceae,89.8,Clusia rosea Jacq.,Malpighiales,Clusiaceae,Clusia,SPECIES,-82.388535,23.124889
+1207,Ericales,Ericales,89.8,Schima wallichii (DC.) Korth.,Ericales,Theaceae,Schima,SPECIES,92.389999,23.440001
+1208,Clusiaceae,Clusiaceae,89.8,Clusia rosea Jacq.,Malpighiales,Clusiaceae,Clusia,SPECIES,-80.273834,25.678816
+1209,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,87.517,27.298
+1210,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,87.47,27.362
+1211,Clusiaceae,Clusiaceae,89.8,Clusia rosea Jacq.,Malpighiales,Clusiaceae,Clusia,SPECIES,-82.722023,27.989672
+1212,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,30.022,31.2
+1213,Ericales,Ericales,89.8,Ericales,Ericales,,,ORDER,-83.986115,32.629723
+1214,Ericales,Ericales,89.8,Ericaceae,Ericales,Ericaceae,,FAMILY,-76.817497,35.359722
+1215,Clusiaceae,Clusiaceae,89.8,Clusia L.,Malpighiales,Clusiaceae,Clusia,GENUS,-90.2589,38.6141
+1216,Ericales,Ericales,89.8,Arbutus L.,Ericales,Ericaceae,Arbutus,GENUS,-117.883331,39.25
+1217,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,-73.755,45.517
+1218,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,-92.777,49.634
+1219,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-5.034181,50.517202
+1220,Ericales,Ericales,89.8,Lyonia Nutt.,Ericales,Ericaceae,Lyonia,GENUS,14.6,51.433334
+1221,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-3.804204,51.550002
+1222,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-3.660047,51.552131
+1223,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-3.80777,51.63987
+1224,Clusiaceae,Clusiaceae,89.8,Clusiaceae,Malpighiales,Clusiaceae,,FAMILY,-3.811354,51.729737
+1225,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,-67.1689,54.9004
+1226,Ericales,Ericales,89.8,Ericaceae,Ericales,Ericaceae,,FAMILY,10.266667,54.933334
+1227,Ericales,Ericales,89.8,Andromeda L.,Ericales,Ericaceae,Andromeda,GENUS,74.73333,56.116669
+1228,Ericales,Ericales,89.8,Andromeda L.,Ericales,Ericaceae,Andromeda,GENUS,74.5,56.5
+1229,Ericales,Ericales,89.8,Andromeda L.,Ericales,Ericaceae,Andromeda,GENUS,72.5,57.5
+1230,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,6.750774,58.666822
+1231,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,7.49955,59.233139
+1232,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,4.873418,59.310989
+1233,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,5.730612,59.838082
+1234,Ericales,Ericales,89.8,Vaccinium myrtillus L.,Ericales,Ericaceae,Vaccinium,SPECIES,23.798226,60.24086
+1235,Ericales,Ericales,89.8,Vaccinium vitis-idaea L.,Ericales,Ericaceae,Vaccinium,SPECIES,23.798226,60.24086
+1236,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,5.088112,60.265031
+1237,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,5.278833,60.30197
+1238,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,11.324264,60.337854
+1239,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,5.315323,60.467124
+1240,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,6.974902,60.68396
+1241,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,6.946621,60.693536
+1242,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,6.946052,60.694519
+1243,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,4.704672,60.764173
+1244,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,6.067916,62.344498
+1245,Ericales,Ericales,89.8,Vaccinium uliginosum L.,Ericales,Ericaceae,Vaccinium,SPECIES,28.566189,62.916092
+1246,Ericales,Ericales,89.8,Vaccinium myrtillus L.,Ericales,Ericaceae,Vaccinium,SPECIES,28.566189,62.916092
+1247,Ericales,Ericales,89.8,Empetrum nigrum L.,Ericales,Ericaceae,Empetrum,SPECIES,28.566189,62.916092
+1248,Ericales,Ericales,89.8,Vaccinium vitis-idaea L.,Ericales,Ericaceae,Vaccinium,SPECIES,28.566189,62.916092
+1249,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,10.485941,63.392056
+1250,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,10.732564,63.415912
+1251,Cornales,Cornales,89.8,Cornus suecica L.,Cornales,Cornaceae,Cornus,SPECIES,29.290218,64.111008
+1252,Cornales,Cornales,89.8,Chamaepericlymenum suecicum (L.) Asch. & Graebn.,Cornales,Cornaceae,Cornus,SPECIES,13.802091,66.756989
+1253,Ericales,Ericales,89.8,Phyllodoce caerulea (L.) Bab.,Ericales,Ericaceae,Phyllodoce,SPECIES,20.941887,68.92516
+1254,Ericales,Ericales,89.8,Empetrum nigrum L.,Ericales,Ericaceae,Empetrum,SPECIES,20.941887,68.92516
+1255,Ericales,Ericales,89.8,Rhododendron lapponicum (L.) Wahlenb.,Ericales,Ericaceae,Rhododendron,SPECIES,20.941887,68.92516
+1256,Ericales,Ericales,89.8,Diapensia lapponica L.,Ericales,Diapensiaceae,Diapensia,SPECIES,20.941887,68.92516
+1257,Ericales,Ericales,89.8,Vaccinium vitis-idaea L.,Ericales,Ericaceae,Vaccinium,SPECIES,20.941887,68.92516
+1258,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,19.705,69.653
+1259,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,19.104,69.72
+1260,Cornales,Cornales,89.8,Cornales,Cornales,,,ORDER,22.313,70.016
+1261,Ericales,Ericales,89.8,Ericales,Ericales,,,ORDER,-89.430275,75.41111
+1262,Cupressaceae,Cupressaceae,163.5,Callitris Vent.,Pinales,Cupressaceae,Callitris,GENUS,147.06832,-33.66222
+1263,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,6.0,51.15
+1264,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.6,51.3
+1265,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.55,51.35
+1266,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.35,51.6
+1267,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,4.45,51.95
+1268,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.7,51.95
+1269,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.9,51.95
+1270,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.7,52.0
+1271,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,0.787592,52.106343
+1272,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.95,52.2
+1273,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,4.8,52.3
+1274,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,4.55,52.35
+1275,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,4.9,52.35
+1276,Cupressaceae,Cupressaceae,163.5,Cupressus L.,Pinales,Cupressaceae,Cupressus,GENUS,1.468096,52.591956
+1277,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,4.7,52.65
+1278,Cupressaceae,Cupressaceae,163.5,Thuja L.,Pinales,Cupressaceae,Thuja,GENUS,1.179842,52.689987
+1279,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,0.292967,52.710469
+1280,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,6.35,53.0
+1281,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,6.3,53.05
+1282,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,5.75,53.2
+1283,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,6.1,53.25
+1284,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,-1.175062,53.359025
+1285,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,-1.325304,53.359969
+1286,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,-1.323881,53.449848
+1287,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,-1.474448,53.450605
+1288,Cupressaceae,Cupressaceae,163.5,Cupressaceae,Pinales,Cupressaceae,,FAMILY,-1.322451,53.539726
+1289,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,145.328888,-42.164722
+1290,Taxaceae,Taxaceae,201.3,Taxus L.,Pinales,Taxaceae,Taxus,GENUS,151.029858,-33.747245
+1291,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,110.11,24.15
+1292,Taxaceae,Taxaceae,201.3,Taxus wallichiana Zucc.,Pinales,Taxaceae,Taxus,SPECIES,88.024,27.053
+1293,Taxaceae,Taxaceae,201.3,Taxus wallichiana Zucc.,Pinales,Taxaceae,Taxus,SPECIES,87.9167,27.1
+1294,Taxaceae,Taxaceae,201.3,Taxus kingstonii Spjut,Pinales,Taxaceae,Taxus,SPECIES,89.762,27.666
+1295,Taxaceae,Taxaceae,201.3,Taxus wallichiana Zucc.,Pinales,Taxaceae,Taxus,SPECIES,86.725,27.7
+1296,Taxaceae,Taxaceae,201.3,Taxus contorta Griff.,Pinales,Taxaceae,Taxus,SPECIES,85.007,28.4766
+1297,Taxaceae,Taxaceae,201.3,Taxus contorta Griff.,Pinales,Taxaceae,Taxus,SPECIES,84.21544,28.564446
+1298,Taxaceae,Taxaceae,201.3,Taxus contorta var. mucronata Spjut,Pinales,Taxaceae,Taxus,VARIETY,81.0,29.7
+1299,Taxaceae,Taxaceae,201.3,Taxus wallichiana Zucc.,Pinales,Taxaceae,Taxus,SPECIES,79.987,30.172
+1300,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,-16.239925,31.562553
+1301,Taxaceae,Taxaceae,201.3,Taxus contorta Griff.,Pinales,Taxaceae,Taxus,SPECIES,71.86,35.271
+1302,Taxaceae,Taxaceae,201.3,Taxus L.,Pinales,Taxaceae,Taxus,GENUS,-86.80236,36.1459
+1303,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,-5.565014,36.559203
+1304,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,-3.265523,37.174847
+1305,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,-2.550375,38.352919
+1306,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,35.179672,39.060596
+1307,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,-101.506333,46.922
+1308,Taxaceae,Taxaceae,201.3,Taxus brevifolia Nutt.,Pinales,Taxaceae,Taxus,SPECIES,-120.902,47.60865
+1309,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,0.833333,51.400002
+1310,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,-0.271231,51.548322
+1311,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,-112.904167,51.660833
+1312,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,5.739175,51.748352
+1313,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,-2.709464,53.467629
+1314,Taxaceae,Taxaceae,201.3,Taxus L.,Pinales,Taxaceae,Taxus,GENUS,-2.763135,53.949019
+1315,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,13.01352,55.47837
+1316,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,13.05111,55.48372
+1317,Taxaceae,Taxaceae,201.3,Taxus baccata L.,Pinales,Taxaceae,Taxus,SPECIES,10.661722,59.540463
+1318,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,16.54098,59.6234
+1319,Taxaceae,Taxaceae,201.3,Taxaceae,Pinales,Taxaceae,,FAMILY,22.89966,59.813998
+1320,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,151.189789,-33.832531
+1321,Cycadaceae,Cycadaceae,273.0,Cycas L.,Cycadales,Cycadaceae,Cycas,GENUS,151.252243,-33.807961
+1322,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,151.078436,-33.454374
+1323,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-46.6361,-23.5475
+1324,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-47.3842,-22.3569
+1325,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-57.613889,-16.163889
+1326,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,39.183333,-9.866667
+1327,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-39.780833,-7.131111
+1328,Cycadaceae,Cycadaceae,273.0,Cycas L.,Cycadales,Cycadaceae,Cycas,GENUS,-1.50418,12.38085
+1329,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,-96.63645,17.04625
+1330,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,124.12,24.22
+1331,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-77.083336,26.466667
+1332,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,128.2621,26.8605
+1333,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,-17.102024,32.681949
+1334,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,133.007879,32.73345
+1335,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,133.514089,33.584499
+1336,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,134.599062,34.166162
+1337,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,134.620448,34.190743
+1338,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,135.31,34.36
+1339,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,-8.964257,39.437917
+1340,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,19.853332,39.664521
+1341,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-2.665278,40.964169
+1342,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-108.646538,41.51273
+1343,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-108.160698,42.335098
+1344,Cycadaceae,Cycadaceae,273.0,Cycas revoluta Thunb.,Cycadales,Cycadaceae,Cycas,SPECIES,2.967697,42.639645
+1345,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,39.971156,43.401506
+1346,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,-104.240555,44.021111
+1347,Cycadaceae,Cycadaceae,273.0,Cycadaceae,Cycadales,Cycadaceae,,FAMILY,16.731389,50.315278

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="../css/style123.css">
+    <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="../js/echarts.js"></script>
+    <script type="text/javascript" src="../js/world.js"></script>
+    <script type="text/javascript" src="../js/option/option.js"></script>
+    <script  src="https://cdn.bootcss.com/FileSaver.js/2014-11-29/FileSaver.js"></script>
+
+</head>
+<body>
+<div id="main" class="container" style="width:100%;height:750px;"></div>
+<div><button id="stop" class="btn-default" style="display: none">暂停/播放</button>
+</div>
+</body>
+
+<script>
+    function getRandomColor(){
+        return '#'+Math.floor(Math.random()*0xffffff).toString(16);
+    }
+
+    let myChart = echarts.init(document.getElementById('main'));
+    let target = {};
+    let finalTarget = [];
+    let timeLineArray = [];
+    let lastColor = null;
+    let lastTimeLine = null;
+
+    $.getJSON('./data/map_data_new.json',data=> {
+        data.sort((a, b) => a.time - b.time)
+        $.each(data, (k, v) => {
+            let time = v.time
+            if (time in target) target[time].push(v)
+            else target[time] = [v]
+            v.timeline = Math.ceil(time);
+            let absTime = Math.abs(v.timeline)
+            timeLineArray.push(absTime);
+            v.subtext = `Timeline: ${absTime}  million years ago`;
+            v.subtext2 = v.name
+            if(lastTimeLine !== null && lastTimeLine === v.timeline)
+            {
+                //同一系列的点
+                v.color = lastColor;
+            }
+            else
+            {
+                //不同系列的点
+                v.color = (getRandomColor());
+                lastColor = v.color;
+                lastTimeLine = v.timeline
+            }
+            finalTarget.push(v);
+        })
+        timeLineArray = Array.from(new Set(timeLineArray))
+        let close2 = true;
+        let intervalInit2 = null;
+        let i = 0;
+        let timeData = [];
+        let lastC = null;
+        let start = 280;
+        let timeRange = 1;
+        const fullSpeed = 600;
+
+        $("#stop").click(function () {
+            if(!close2)
+            {
+                //关闭动画
+                clearInterval(intervalInit2);
+                close2 = !close2
+            }
+            else
+            {
+                //开启动画
+                close2 = !close2;
+                intervalInit2 = setInterval(function () {
+                    let end = start - timeRange
+                    if(timeLineArray.includes(end))
+                    {
+                        let item = finalTarget[i]
+                        if(item)
+                        {
+                            //没走完
+                            option.title[0].subtext = item.subtext;
+                            option.title[1].subtext = item.subtext2;
+                            option.title[1].subtextStyle.color = item.color;
+
+                            option.series[0].itemStyle.color = item.color;
+                            if(lastC === null || lastC === item.color)
+                            {
+                                timeData.push(item);
+                                i++;
+                            }
+                            else
+                            {
+                                timeData = [];
+                                timeData.push(item);
+                                //往前走
+                                start = end;
+                            }
+                            option.series[0].data = timeData;
+                            //更新
+                            lastC = item.color;
+                            myChart.setOption(option);
+                        }
+                        else
+                        {
+                            //走完
+                            option2.series[0].label.show = true;
+                            option2.series[0].data = finalTarget;
+                            myChart.setOption(option2);
+                            clearInterval(intervalInit2)
+                        }
+                    }
+                    else
+                    {
+                        //无数据
+                        //没走完
+                        if(end > 30)
+                        {
+                            option.title[0].subtext = `Timeline: ${end}  million years ago`
+                            option.title[1].subtext = '';
+                            option.series[0].data = [];
+                            myChart.setOption(option);
+                        }
+
+                        //往前走
+                        start = end;
+                    }
+                }, fullSpeed);
+            }
+        })
+        $(document).keydown(function(event){
+            if(event.keyCode == 32){
+                $("#stop").click()
+            }
+        });
+        myChart.setOption(option);
+    })
+
+
+
+</script>
+</html>

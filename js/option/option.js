@@ -1,0 +1,125 @@
+let option = {
+    title: [{
+        text: 'Evolution diagram',
+        subtext:'',
+        top: '5.3%',
+        x: 'center',
+        textStyle: {
+            color: '#000000',
+            fontSize: 35
+        },
+        subtextStyle:{
+            color: '#FF9900',
+            fontSize: 30
+        }
+    },{
+        text: '',
+        subtext:'',
+        left: '3.3%',
+        top: '12.3%',
+        textStyle: {
+            color: '#000000',
+            fontSize: 30
+        },
+        subtextStyle:{
+            color: '#3642db',
+            fontSize: 60
+        }
+    }],
+    geo: {
+        map: 'world',
+        show:true,
+        zoom:1,
+        itemStyle:{
+            color : "#CCCCCC",
+            borderWidth : 0
+        }
+    },
+    color:'#99CC99',
+    blendMode:'',
+    series: [
+        {
+            name: 'plant',
+            type: 'scatter',
+            progressive:200,
+            animation:false,
+            coordinateSystem: 'geo',
+            data: [],
+            tooltip: {
+                show:true,
+                trigger: 'item'
+            },
+            encode: {
+                value: 2
+            },
+            symbolSize: 8,
+            itemStyle: {
+                color :  (params)=>{
+                    return params.data.color
+                },
+                opacity:0.5
+            },
+            emphasis: {
+                label: {
+                    show: true
+                }
+            }
+        }]}
+
+let option2 = {
+    title: [{
+        text: 'Evolution diagram',
+        subtext:'',
+        left: '3.3%',
+        top: '5.3%',
+        textStyle: {
+            color: '#000000',
+            fontSize: 30
+        },
+        subtextStyle:{
+            color: '#FF9900',
+            fontSize: 20
+        }
+    },{
+        text: '',
+        subtext:'',
+        left: '3.3%',
+        top: '12.3%',
+        textStyle: {
+            color: '#000000',
+            fontSize: 30
+        },
+        subtextStyle:{
+            color: '#3642db',
+            fontSize: 20
+        }
+    }],
+
+    geo: {
+        map: 'world',
+        show:true,
+        roam:false,
+        zoom:1,
+        itemStyle:{
+            color : "#CCCCCC",
+            borderWidth : 0
+        }
+    },
+    color:'#99CC99',
+    blendMode:'',
+    legend : {
+        orient : 'vertical',
+        y : 'bottom',
+        x : 'left',
+        orient:'horizontal',
+        data : ['plant'],
+        textStyle : {
+            color : '#333333'
+        }
+    },
+    tooltip : {
+        trigger : 'item',
+        formatter : '{b}'
+    },
+    series: []
+}

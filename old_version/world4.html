@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="../css/style123.css">
+    <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="../js/echarts.js"></script>
+    <script type="text/javascript" src="../js/world.js"></script>
+    <script type="text/javascript" src="../js/option/option.js"></script>
+
+</head>
+<body>
+<div id="main" class="container" style="width:100%;height:1050px;"></div>
+<div><button id="stop" class="btn-default" style="display: none">暂停/播放</button>
+</div>
+</body>
+
+<script>
+    function getRandomColor(){
+        return '#'+Math.floor(Math.random()*0xffffff).toString(16);
+    }
+
+    let myChart = echarts.init(document.getElementById('main'));
+    let target = {};
+    let finalTarget = [];
+    let timeLineArray = [];
+    let lastColor = null;
+    let lastTimeLine = null;
+    let plantNames = []
+    let series = []
+
+    $.getJSON('./data/map_shuzu.json',data=> {
+        plantNames = data;
+    })
+    $.getJSON('./data/map_series.json',data=> {
+
+        let close2 = true;
+        let intervalInit2 = null;
+        let i = 0;
+        let timeData = [];
+        let lastC = null;
+        let start = 280;
+        let timeRange = 1;
+        const fullSpeed = 600;
+
+        $("#stop").click(function () {
+            Object.keys(data).forEach(function(key){
+                // console.log(key,data[key]);
+                let plant = {
+                    name: 'plant',
+                    type: 'scatter',
+                    coordinateSystem: 'geo',
+                    data: [],
+                    tooltip: {
+                        show:true,
+                        trigger: 'item'
+                    },
+                    encode: {
+                        value: 2
+                    },
+                    symbolSize: function (val) {
+                        return 8;
+                    },
+                    label:{
+                        show:false,
+                        distance:5,
+                        position:'top',
+                        formatter:(params) => {
+                            return params.data.name
+                        },
+                        textStyle:{
+                            color: '#000000',
+                            borderWidth: 1 ,
+                            fontFamily: 'sans-serif' ,
+                            fontSize: 10,
+                            fontStyle:'italic',
+                            fontWeight: 'normal'
+                        }
+                    },
+                    itemStyle: {
+                        color: (params)=>{
+                            return params.data.color
+                        },
+                        opacity:0.5
+                    },
+                    emphasis: {
+                        label: {
+                            show: true
+                        }
+                    }
+                }
+                plant.name = key;
+                plant.data = data[key].data;
+                plant.itemStyle.color = data[key].color;
+                series.push(plant)
+            });
+            option2.series = series;
+            option2.legend.data = plantNames;
+            myChart.setOption(option2);
+        })
+        $(document).keydown(function(event){
+            if(event.keyCode == 32){
+                $("#stop").click()
+            }
+        });
+        myChart.setOption(option);
+    })
+
+
+
+</script>
+</html>

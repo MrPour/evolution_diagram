@@ -1,0 +1,5843 @@
+[
+    {
+        "name": "Acorus gramineus",
+        "time": -154.23,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Acorus gramineus",
+        "time": -154.23,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Alisma plantago-aquatica",
+        "time": -146.73,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Limnocharis flava",
+        "time": -146.73,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Limnocharis flava",
+        "time": -146.73,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Sagittaria lichuanensis",
+        "time": -146.73,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Sagittaria montevidensis",
+        "time": -146.73,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Aponogeton abyssinicus",
+        "time": -146.73,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Aponogeton distachyos",
+        "time": -146.73,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Lasia spinosa",
+        "time": -146.73,
+        "value": [
+            101.561943,
+            21.450581,
+            1
+        ]
+    },
+    {
+        "name": "Rhaphidophora hookeri",
+        "time": -146.73,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Schismatoglottis hainanensis",
+        "time": -146.73,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Spirodela polyrrhiza",
+        "time": -146.73,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Spirodela polyrrhiza",
+        "time": -146.73,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Butomus umbellatus",
+        "time": -146.73,
+        "value": [
+            116.200882,
+            39.943405,
+            1
+        ]
+    },
+    {
+        "name": "Butomus umbellatus",
+        "time": -146.73,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Cymodocea rotundata",
+        "time": -146.73,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Blyxa aubertii",
+        "time": -146.73,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Enhalus acoroides",
+        "time": -146.73,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Najas marina",
+        "time": -146.73,
+        "value": [
+            116.964661,
+            36.648212,
+            1
+        ]
+    },
+    {
+        "name": "Ottelia cordata",
+        "time": -146.73,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Thalassia hemprichii",
+        "time": -146.73,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Triglochin maritima",
+        "time": -146.73,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Triglochin palustris",
+        "time": -146.73,
+        "value": [
+            79.91321,
+            37.11178,
+            1
+        ]
+    },
+    {
+        "name": "Triglochin palustris",
+        "time": -146.73,
+        "value": [
+            103.14178,
+            36.97184,
+            1
+        ]
+    },
+    {
+        "name": "Triglochin palustris",
+        "time": -146.73,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Ruppia maritima",
+        "time": -146.73,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Scheuchzeria palustris",
+        "time": -146.73,
+        "value": [
+            126.57436,
+            43.88187,
+            1
+        ]
+    },
+    {
+        "name": "Tofieldia coccinea",
+        "time": -146.73,
+        "value": [
+            128.8992,
+            43.11166,
+            1
+        ]
+    },
+    {
+        "name": "Tofieldia thibetica",
+        "time": -146.73,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Phyllospadix iwatensis",
+        "time": -146.73,
+        "value": [
+            120.381004,
+            36.076122,
+            1
+        ]
+    },
+    {
+        "name": "Zostera japonica",
+        "time": -146.73,
+        "value": [
+            120.381004,
+            36.076122,
+            1
+        ]
+    },
+    {
+        "name": "Zostera marina",
+        "time": -146.73,
+        "value": [
+            120.381004,
+            36.076122,
+            1
+        ]
+    },
+    {
+        "name": "Heracleum millefolium",
+        "time": -80.46,
+        "value": [
+            93.78556,
+            31.88673,
+            1
+        ]
+    },
+    {
+        "name": "Oenanthe javanica",
+        "time": -80.46,
+        "value": [
+            115.91135,
+            29.60855,
+            1
+        ]
+    },
+    {
+        "name": "Pternopetalum sp.",
+        "time": -80.46,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Aralia thomsonii",
+        "time": -80.46,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Eleutherococcus trifoliatus",
+        "time": -80.46,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Hydrocotyle javanica",
+        "time": -80.46,
+        "value": [
+            100.97692,
+            22.78684,
+            1
+        ]
+    },
+    {
+        "name": "Pittosporum brevicalyx",
+        "time": -80.46,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Torricellia angulata",
+        "time": -80.46,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Ilex cornuta",
+        "time": -94.14,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Cardiopteris quinqueloba",
+        "time": -94.14,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Gonocaryum lobbianum",
+        "time": -94.14,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Helwingia himalaica",
+        "time": -94.14,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Gomphandra tetrandra",
+        "time": -94.14,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Areca catechu",
+        "time": -128.7,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Arenga engleri",
+        "time": -128.7,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Cocos nucifera",
+        "time": -128.7,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Crinum asiaticum",
+        "time": -132.67,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Lycoris sprengeri",
+        "time": -132.67,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Zephyranthes minuta",
+        "time": -132.67,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Agave sisalana",
+        "time": -132.67,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Asparagus cochinchinensis",
+        "time": -132.67,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Cordyline fruticosa",
+        "time": -132.67,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Dracaena cochinchinensis",
+        "time": -132.67,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Polygonatum cirrhifolium",
+        "time": -132.67,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Dianella ensifolia",
+        "time": -132.67,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Eremurus chinensis",
+        "time": -132.67,
+        "value": [
+            98.91699,
+            28.46357,
+            1
+        ]
+    },
+    {
+        "name": "Hemerocallis fulva",
+        "time": -132.67,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Hypoxis aurea",
+        "time": -132.67,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Molineria crassifolia",
+        "time": -132.67,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Crocosmia \u00d7",
+        "time": -132.67,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Iris decora",
+        "time": -132.67,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Iris japonica",
+        "time": -132.67,
+        "value": [
+            114.54688,
+            29.02533,
+            1
+        ]
+    },
+    {
+        "name": "Goodyera procera",
+        "time": -132.67,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Pleione bulbocodioides",
+        "time": -132.67,
+        "value": [
+            97.46687,
+            28.66154,
+            1
+        ]
+    },
+    {
+        "name": "Cissampelopsis corifolia",
+        "time": -88.85,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Senecio wightii",
+        "time": -88.85,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Lobelia seguinii",
+        "time": -88.85,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Scaevola taccada",
+        "time": -88.85,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Menyanthes trifoliata",
+        "time": -88.85,
+        "value": [
+            126.57436,
+            43.88187,
+            1
+        ]
+    },
+    {
+        "name": "Nymphoides peltata",
+        "time": -88.85,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Nymphoides peltata",
+        "time": -88.85,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Pentaphragma sinense",
+        "time": -88.85,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Pentaphragma sinense",
+        "time": -88.85,
+        "value": [
+            101.561943,
+            21.450581,
+            1
+        ]
+    },
+    {
+        "name": "Pentaphragma spicatum",
+        "time": -88.85,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Stylidium uliginosum",
+        "time": -88.85,
+        "value": [
+            108.35342,
+            21.76913,
+            1
+        ]
+    },
+    {
+        "name": "Stylidium uliginosum",
+        "time": -88.85,
+        "value": [
+            108.35342,
+            21.76913,
+            1
+        ]
+    },
+    {
+        "name": "Kadsura heteroclita",
+        "time": -179.27,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Kadsura heteroclita",
+        "time": -179.27,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Cordia alliodora",
+        "time": -88.25,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Cordia subcordata",
+        "time": -88.25,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Ehretia corylifolia",
+        "time": -88.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Heliotropium indicum",
+        "time": -88.25,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Heliotropium indicum",
+        "time": -88.25,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Trichodesma calycosum",
+        "time": -88.25,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Bretschneidera sinensis",
+        "time": -89.8,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Bretschneidera sinensis",
+        "time": -89.8,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Cardamine tangutorum",
+        "time": -89.8,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Lepidium virginicum",
+        "time": -89.8,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Rorippa indica",
+        "time": -89.8,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Crateva unilocularis",
+        "time": -89.8,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Carica papaya",
+        "time": -89.8,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Cleome houtteana",
+        "time": -89.8,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Cleome houtteana",
+        "time": -89.8,
+        "value": [
+            114.173874,
+            22.576612,
+            1
+        ]
+    },
+    {
+        "name": "Cleome rutidosperma",
+        "time": -89.8,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Cleome viscosa",
+        "time": -89.8,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Cleome viscosa",
+        "time": -89.8,
+        "value": [
+            119.588173,
+            33.684929,
+            1
+        ]
+    },
+    {
+        "name": "Moringa oleifera",
+        "time": -89.8,
+        "value": [
+            100.97692,
+            22.78684,
+            1
+        ]
+    },
+    {
+        "name": "Azima sarmentosa",
+        "time": -89.8,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Azima sarmentosa",
+        "time": -89.8,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Tropaeolum majus",
+        "time": -89.8,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Tropaeolum majus",
+        "time": -89.8,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Pachysandra axillaris",
+        "time": -125.44,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Warburgia ugandensis",
+        "time": -127.0,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Mesembryanthemum cordifolium",
+        "time": -116.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Sesuvium portulacastrum",
+        "time": -116.41,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Tetragonia tetragonioides",
+        "time": -116.41,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Cyathula capitata",
+        "time": -116.41,
+        "value": [
+            102.54025,
+            24.34128,
+            1
+        ]
+    },
+    {
+        "name": "Ancistrocladus tectorius",
+        "time": -116.41,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Anredera cordifolia",
+        "time": -116.41,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Basella alba",
+        "time": -116.41,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Opuntia ficus-indica",
+        "time": -116.41,
+        "value": [
+            97.943581,
+            24.691143,
+            1
+        ]
+    },
+    {
+        "name": "Silene aprica",
+        "time": -116.41,
+        "value": [
+            99.41671,
+            26.45353,
+            1
+        ]
+    },
+    {
+        "name": "Alluaudia procera",
+        "time": -116.41,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Drosera indica",
+        "time": -116.41,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Frankenia pulverulenta",
+        "time": -116.41,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Gisekia pharnaceoides",
+        "time": -116.41,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Gisekia pharnaceoides",
+        "time": -116.41,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Mollugo stricta",
+        "time": -116.41,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Mollugo verticillata",
+        "time": -116.41,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Nepenthes mirabilis",
+        "time": -116.41,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Nepenthes mirabilis",
+        "time": -116.41,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Bougainvillea spectabilis",
+        "time": -116.41,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Mirabilis jalapa",
+        "time": -116.41,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Phytolacca acinosa",
+        "time": -116.41,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Ceratostigma willmottianum",
+        "time": -116.41,
+        "value": [
+            102.75376,
+            24.28744,
+            1
+        ]
+    },
+    {
+        "name": "Plumbago auriculata",
+        "time": -116.41,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Reynoutria multiflora",
+        "time": -116.41,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Portulaca grandiflora",
+        "time": -116.41,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Portulaca pilosa",
+        "time": -116.41,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Talinum paniculatum",
+        "time": -116.41,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Talinum paniculatum",
+        "time": -116.41,
+        "value": [
+            104.54733,
+            30.41133,
+            1
+        ]
+    },
+    {
+        "name": "Myricaria paniculata",
+        "time": -116.41,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Reaumuria trigyna",
+        "time": -116.41,
+        "value": [
+            106.8226,
+            39.69184,
+            1
+        ]
+    },
+    {
+        "name": "Tamarix chinensis",
+        "time": -116.41,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Euonymus theifolius",
+        "time": -106.16,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Loeseneriella yunnanensis",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Maytenus diversifolia",
+        "time": -106.16,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Microtropis sp.",
+        "time": -106.16,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Parnassia delavayi",
+        "time": -106.16,
+        "value": [
+            100.23695,
+            26.82152,
+            1
+        ]
+    },
+    {
+        "name": "Parnassia mysorensis",
+        "time": -106.16,
+        "value": [
+            100.23695,
+            26.82152,
+            1
+        ]
+    },
+    {
+        "name": "Parnassia wightiana",
+        "time": -106.16,
+        "value": [
+            100.23695,
+            26.82152,
+            1
+        ]
+    },
+    {
+        "name": "Plagiopteron suaveolens",
+        "time": -106.16,
+        "value": [
+            106.85455,
+            22.34262,
+            1
+        ]
+    },
+    {
+        "name": "Plagiopteron suaveolens",
+        "time": -106.16,
+        "value": [
+            106.85455,
+            22.34262,
+            1
+        ]
+    },
+    {
+        "name": "Salacia chinensis",
+        "time": -106.16,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Ceratophyllum demersum",
+        "time": -163.24,
+        "value": [
+            116.964661,
+            36.648212,
+            1
+        ]
+    },
+    {
+        "name": "Ceratophyllum demersum",
+        "time": -163.24,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Chloranthus elatior",
+        "time": -164.27,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Hedyosmum orientale",
+        "time": -164.27,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Sarcandra glabra",
+        "time": -164.27,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Floscopa scandens",
+        "time": -99.0,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Philydrum lanuginosum",
+        "time": -99.0,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Philydrum lanuginosum",
+        "time": -99.0,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Eichhornia crassipes",
+        "time": -99.0,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Monochoria vaginalis",
+        "time": -99.0,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Monochoria vaginalis",
+        "time": -99.0,
+        "value": [
+            101.561943,
+            21.450581,
+            1
+        ]
+    },
+    {
+        "name": "Pontederia cordata",
+        "time": -99.0,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Alangium alpinum",
+        "time": -105.39,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Alangium chinense",
+        "time": -105.39,
+        "value": [
+            119.588173,
+            33.684929,
+            1
+        ]
+    },
+    {
+        "name": "Cornus capitata",
+        "time": -105.39,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Cornus controversa",
+        "time": -105.39,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Deutzia crassifolia",
+        "time": -105.39,
+        "value": [
+            101.748566,
+            25.164347,
+            1
+        ]
+    },
+    {
+        "name": "Hydrangea sp.",
+        "time": -105.39,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Camptotheca acuminata",
+        "time": -105.39,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Davidia involucrata",
+        "time": -105.39,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Diplopanax stachyanthus",
+        "time": -105.39,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Mastixia caudatilimba",
+        "time": -105.39,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Nyssa javanica",
+        "time": -105.39,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Nyssa sinensis",
+        "time": -105.39,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Stachyurus himalaicus",
+        "time": -105.98,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Euscaphis japonica",
+        "time": -105.98,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Staphylea forrestii",
+        "time": -105.98,
+        "value": [
+            103.006607,
+            25.235741,
+            1
+        ]
+    },
+    {
+        "name": "Turpinia cochinchinensis",
+        "time": -105.98,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Turpinia montana",
+        "time": -105.98,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Begonia hainanensis",
+        "time": -100.48,
+        "value": [
+            100.616608,
+            36.282539,
+            1
+        ]
+    },
+    {
+        "name": "Coriaria nepalensis",
+        "time": -100.48,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Gynostemma laxum",
+        "time": -100.48,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Trichosanthes rubriflos",
+        "time": -100.48,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Tetrameles nudiflora",
+        "time": -100.48,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Tetrameles nudiflora",
+        "time": -100.48,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Dillenia indica",
+        "time": -119.18,
+        "value": [
+            104.845818,
+            22.938572,
+            1
+        ]
+    },
+    {
+        "name": "Dillenia turbinata",
+        "time": -119.18,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Tetracera sarmentosa",
+        "time": -119.18,
+        "value": [
+            114.173874,
+            22.576612,
+            1
+        ]
+    },
+    {
+        "name": "Tetracera sarmentosa",
+        "time": -119.18,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Burmannia disticha",
+        "time": -137.55,
+        "value": [
+            104.845818,
+            22.938572,
+            1
+        ]
+    },
+    {
+        "name": "Dioscorea kamoonensis",
+        "time": -137.55,
+        "value": [
+            100.166557,
+            25.69503,
+            1
+        ]
+    },
+    {
+        "name": "Dioscorea subcalva",
+        "time": -137.55,
+        "value": [
+            103.006607,
+            25.235741,
+            1
+        ]
+    },
+    {
+        "name": "Tacca chantrieri",
+        "time": -137.55,
+        "value": [
+            101.880928,
+            22.761452,
+            1
+        ]
+    },
+    {
+        "name": "Tacca leontopetaloides",
+        "time": -137.55,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Aletris alpestris",
+        "time": -137.55,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Aletris pauciflora",
+        "time": -137.55,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Adoxa moschatellina",
+        "time": -78.9,
+        "value": [
+            126.57436,
+            43.88187,
+            1
+        ]
+    },
+    {
+        "name": "Adoxa omeiensis",
+        "time": -78.9,
+        "value": [
+            103.885498,
+            30.066561,
+            1
+        ]
+    },
+    {
+        "name": "Sambucus williamsii",
+        "time": -78.9,
+        "value": [
+            102.75376,
+            24.28744,
+            1
+        ]
+    },
+    {
+        "name": "Dipelta floribunda",
+        "time": -78.9,
+        "value": [
+            100.22258,
+            26.872141,
+            1
+        ]
+    },
+    {
+        "name": "Dipsacus inermis",
+        "time": -78.9,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Leycesteria formosa",
+        "time": -78.9,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Lonicera japonica",
+        "time": -78.9,
+        "value": [
+            101.748566,
+            25.164347,
+            1
+        ]
+    },
+    {
+        "name": "Triosteum himalayanum",
+        "time": -78.9,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Weigela japonica",
+        "time": -78.9,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Weigela japonica",
+        "time": -78.9,
+        "value": [
+            114.54688,
+            29.02533,
+            1
+        ]
+    },
+    {
+        "name": "Actinidia venosa",
+        "time": -103.81,
+        "value": [
+            99.41671,
+            26.45353,
+            1
+        ]
+    },
+    {
+        "name": "Hydrocera triflora",
+        "time": -103.81,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Impatiens taishunensis",
+        "time": -103.81,
+        "value": [
+            114.54688,
+            29.02533,
+            1
+        ]
+    },
+    {
+        "name": "Clethra delavayi",
+        "time": -103.81,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Clethra delavayi",
+        "time": -103.81,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Diapensia purpurea",
+        "time": -103.81,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Diospyros dumetorum",
+        "time": -103.81,
+        "value": [
+            100.23695,
+            26.82152,
+            1
+        ]
+    },
+    {
+        "name": "Diospyros lotus",
+        "time": -103.81,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Diospyros strigosa",
+        "time": -103.81,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Fouquieria macdougalii",
+        "time": -103.81,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Barringtonia racemosa",
+        "time": -103.81,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Adinandra angustifolia",
+        "time": -103.81,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Adinandra millettii",
+        "time": -103.81,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Adinandra sp.",
+        "time": -103.81,
+        "value": [
+            107.236069,
+            26.558235,
+            1
+        ]
+    },
+    {
+        "name": "Anneslea fragrans",
+        "time": -103.81,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Cleyera japonica",
+        "time": -103.81,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Pentaphylax euryoides",
+        "time": -103.81,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Ternstroemia gymnanthera",
+        "time": -103.81,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Polemonium caeruleum",
+        "time": -103.81,
+        "value": [
+            103.5071,
+            34.58922,
+            1
+        ]
+    },
+    {
+        "name": "Androsace axillaris",
+        "time": -103.81,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Ardisia polysticta",
+        "time": -103.81,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Embelia parviflora",
+        "time": -103.81,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Lysimachia sp.",
+        "time": -103.81,
+        "value": [
+            108.183922,
+            25.491322,
+            1
+        ]
+    },
+    {
+        "name": "Maesa permollis",
+        "time": -103.81,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Primula duclouxii",
+        "time": -103.81,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Manilkara zapota",
+        "time": -103.81,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Pouteria campechiana",
+        "time": -103.81,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Sarracenia alata",
+        "time": -103.81,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Sladenia celastrifolia",
+        "time": -103.81,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Sladenia celastrifolia",
+        "time": -103.81,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Alniphyllum eberhardtii",
+        "time": -103.81,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Melliodendron xylocarpum",
+        "time": -103.81,
+        "value": [
+            109.25636,
+            25.06629,
+            1
+        ]
+    },
+    {
+        "name": "Sinojackia rehderiana",
+        "time": -103.81,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Sinojackia rehderiana",
+        "time": -103.81,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Styrax grandiflorus",
+        "time": -103.81,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Styrax suberifolius",
+        "time": -103.81,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Symplocos glauca",
+        "time": -103.81,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Symplocos paniculata",
+        "time": -103.81,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Pyrenaria diospyricarpa",
+        "time": -103.81,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Schima sp.",
+        "time": -103.81,
+        "value": [
+            107.236069,
+            26.558235,
+            1
+        ]
+    },
+    {
+        "name": "Stewartia pteropetiolata",
+        "time": -103.81,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Polyosma cambodiana",
+        "time": -89.26,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Polyosma cambodiana",
+        "time": -89.26,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Acrocarpus fraxinifolius",
+        "time": -104.51,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Caesalpinia decapetala",
+        "time": -104.51,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Dalbergia yunnanensis",
+        "time": -104.51,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Wisteria sinensis",
+        "time": -104.51,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Polygala arillata",
+        "time": -104.51,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Polygala karensium",
+        "time": -104.51,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Suriana maritima",
+        "time": -104.51,
+        "value": [
+            112.33356,
+            16.83272,
+            1
+        ]
+    },
+    {
+        "name": "Corylus sp.",
+        "time": -100.48,
+        "value": [
+            104.7274,
+            27.12328,
+            1
+        ]
+    },
+    {
+        "name": "Ostrya carpinifolia",
+        "time": -100.48,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Casuarina equisetifolia",
+        "time": -100.48,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Engelhardia spicata",
+        "time": -100.48,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Rhoiptelea chiliantha",
+        "time": -100.48,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Myrica esculenta",
+        "time": -100.48,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Myrica nana",
+        "time": -100.48,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Myrica rubra",
+        "time": -100.48,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Aucuba chlorascens",
+        "time": -94.35,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Aucuba chlorascens",
+        "time": -94.35,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Aganosma schlechteriana",
+        "time": -88.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Beaumontia khasiana",
+        "time": -88.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Kopsia arborea",
+        "time": -88.25,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Melodinus fusiformis",
+        "time": -88.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Periploca sepium",
+        "time": -88.25,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Vallaris indecora",
+        "time": -88.25,
+        "value": [
+            100.23695,
+            26.82152,
+            1
+        ]
+    },
+    {
+        "name": "Gelsemium elegans",
+        "time": -88.25,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Gelsemium elegans",
+        "time": -88.25,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Fagraea ceilanica",
+        "time": -88.25,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Gentiana macrophylla",
+        "time": -88.25,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Halenia elliptica",
+        "time": -88.25,
+        "value": [
+            99.371643,
+            25.812023,
+            1
+        ]
+    },
+    {
+        "name": "Megacodon stylophorus",
+        "time": -88.25,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Strychnos cathayensis",
+        "time": -88.25,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Emmenopterys henryi",
+        "time": -88.25,
+        "value": [
+            103.41499,
+            24.41059,
+            1
+        ]
+    },
+    {
+        "name": "Mycetia gracilis",
+        "time": -88.25,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Mycetia longiflora",
+        "time": -88.25,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Tarennoidea wallichii",
+        "time": -88.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Uncaria macrophylla",
+        "time": -88.25,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Wendlandia pendula",
+        "time": -88.25,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Wendlandia sp.",
+        "time": -88.25,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Bersama abyssinica",
+        "time": -112.26,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Dipentodon sinicus",
+        "time": -92.57,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Perrottetia racemosa",
+        "time": -92.57,
+        "value": [
+            103.885498,
+            30.066561,
+            1
+        ]
+    },
+    {
+        "name": "Tapiscia sinensis",
+        "time": -92.57,
+        "value": [
+            103.885498,
+            30.066561,
+            1
+        ]
+    },
+    {
+        "name": "Tapiscia yunnanensis",
+        "time": -92.57,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Iodes vitiginea",
+        "time": -95.28,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Asystasiella neesiana",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Avicennia marina",
+        "time": -87.86,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Barleria cristata",
+        "time": -87.86,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Strobilanthes henryi",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Incarvillea diffusa",
+        "time": -87.86,
+        "value": [
+            99.41671,
+            26.45353,
+            1
+        ]
+    },
+    {
+        "name": "Markhamia stipulata",
+        "time": -87.86,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Mayodendron igneum",
+        "time": -87.86,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Pauldopia ghorta",
+        "time": -87.86,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Carlemannia tetragona",
+        "time": -87.86,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Aeschynanthus superbus",
+        "time": -87.86,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Rhynchoglossum obliquum",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Anisomeles indica",
+        "time": -87.86,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Clerodendrum longilimbum",
+        "time": -87.86,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Congea chinensis",
+        "time": -87.86,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Gmelina arborea",
+        "time": -87.86,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Isodon eriocalyx",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Meehania fargesii",
+        "time": -87.86,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Pinguicula alpina",
+        "time": -87.86,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Lindernia viscosa",
+        "time": -87.86,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Lancea tibetica",
+        "time": -87.86,
+        "value": [
+            92.05355,
+            31.46988,
+            1
+        ]
+    },
+    {
+        "name": "Mazus miquelii",
+        "time": -87.86,
+        "value": [
+            100.22258,
+            26.872141,
+            1
+        ]
+    },
+    {
+        "name": "Fraxinus malacophylla",
+        "time": -87.86,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Ligustrum sinense",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Brandisia racemosa",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Cymbaria mongolica",
+        "time": -87.86,
+        "value": [
+            103.14178,
+            36.97184,
+            1
+        ]
+    },
+    {
+        "name": "Lindenbergia muraria",
+        "time": -87.86,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Lindenbergia philippensis",
+        "time": -87.86,
+        "value": [
+            104.845818,
+            22.938572,
+            1
+        ]
+    },
+    {
+        "name": "Rehmannia glutinosa",
+        "time": -87.86,
+        "value": [
+            106.168419,
+            38.491177,
+            1
+        ]
+    },
+    {
+        "name": "Paulownia fortunei",
+        "time": -87.86,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Sesamum indicum",
+        "time": -87.86,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Mimulus tenellus",
+        "time": -87.86,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Phryma leptostachya",
+        "time": -87.86,
+        "value": [
+            103.006607,
+            25.235741,
+            1
+        ]
+    },
+    {
+        "name": "Bacopa monnieri",
+        "time": -87.86,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Digitalis purpurea",
+        "time": -87.86,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Hippuris vulgaris",
+        "time": -87.86,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Hippuris vulgaris",
+        "time": -87.86,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Linaria vulgaris",
+        "time": -87.86,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Trapella sinensis",
+        "time": -87.86,
+        "value": [
+            123.46987,
+            41.80515,
+            1
+        ]
+    },
+    {
+        "name": "Buddleja alternifolia",
+        "time": -87.86,
+        "value": [
+            103.14178,
+            36.97184,
+            1
+        ]
+    },
+    {
+        "name": "Buddleja officinalis",
+        "time": -87.86,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Scrophularia elatior",
+        "time": -87.86,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Scrophularia ningpoensis",
+        "time": -87.86,
+        "value": [
+            100.22258,
+            26.872141,
+            1
+        ]
+    },
+    {
+        "name": "Verbascum thapsus",
+        "time": -87.86,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Calycanthus chinensis",
+        "time": -132.25,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Chimonanthus praecox",
+        "time": -132.25,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Hernandia nymphaeifolia",
+        "time": -132.25,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Actinodaphne forrestii",
+        "time": -132.25,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Cassytha filiformis",
+        "time": -132.25,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Lindera communis",
+        "time": -132.25,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Machilus rufipes",
+        "time": -132.25,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Neocinnamomum delavayi",
+        "time": -132.25,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Neolitsea sericea",
+        "time": -132.25,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Disporum calcaratum",
+        "time": -136.23,
+        "value": [
+            100.97692,
+            22.78684,
+            1
+        ]
+    },
+    {
+        "name": "Gloriosa superba",
+        "time": -136.23,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Iphigenia indica",
+        "time": -136.23,
+        "value": [
+            100.22258,
+            26.872141,
+            1
+        ]
+    },
+    {
+        "name": "Iphigenia indica",
+        "time": -136.23,
+        "value": [
+            103.006607,
+            25.235741,
+            1
+        ]
+    },
+    {
+        "name": "Notholirion bulbuliferum",
+        "time": -136.23,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Paris mairei",
+        "time": -136.23,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Paris polyphylla",
+        "time": -136.23,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Veratrum shanense",
+        "time": -136.23,
+        "value": [
+            100.22258,
+            26.872141,
+            1
+        ]
+    },
+    {
+        "name": "Smilax ocreata",
+        "time": -136.23,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Desmos chinensis",
+        "time": -132.25,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Fissistigma wallichii",
+        "time": -132.25,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Polyalthia suberosa",
+        "time": -132.25,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Magnolia grandis",
+        "time": -132.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Horsfieldia kingii",
+        "time": -132.25,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Hydnocarpus hainanensis",
+        "time": -106.16,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Calophyllum polyanthum",
+        "time": -106.16,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Mammea yunnanensis",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Mesua ferrea",
+        "time": -106.16,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Mesua ferrea",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Garcinia lancilimba",
+        "time": -106.16,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Pentadesma butyracea",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Dichapetalum gelonioides",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Dichapetalum longipetalum",
+        "time": -106.16,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Bergia capensis",
+        "time": -106.16,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Bergia capensis",
+        "time": -106.16,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Erythroxylum novogranatense",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Erythroxylum sinense",
+        "time": -106.16,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Acalypha indica",
+        "time": -106.16,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Acalypha mairei",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Codiaeum variegatum",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Mallotus barbatus",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Mallotus barbatus",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Ostodes paniculata",
+        "time": -106.16,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Cratoxylum cochinchinense",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Hypericum beanii",
+        "time": -106.16,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Ixonanthes reticulata",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Ixonanthes reticulata",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Reinwardtia indica",
+        "time": -106.16,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Aspidopterys henryi",
+        "time": -106.16,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Hiptage benghalensis",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Hiptage candicans",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Gomphia serrata",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Gomphia serrata",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Ochna integerrima",
+        "time": -106.16,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Microdesmis caseariifolia",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Microdesmis caseariifolia",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Passiflora coccinea",
+        "time": -106.16,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Antidesma bunius",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Aporosa octandra",
+        "time": -106.16,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Baccaurea ramiflora",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Glochidion lanceolarium",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Glochidion sp.",
+        "time": -106.16,
+        "value": [
+            104.7274,
+            27.12328,
+            1
+        ]
+    },
+    {
+        "name": "Leptopus pachyphyllus",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Phyllanthus reticulatus",
+        "time": -106.16,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Phyllanthus tsarongensis",
+        "time": -106.16,
+        "value": [
+            100.23695,
+            26.82152,
+            1
+        ]
+    },
+    {
+        "name": "Sauropus macranthus",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Drypetes hainanensis",
+        "time": -106.16,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Drypetes indica",
+        "time": -106.16,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Bruguiera sexangula",
+        "time": -106.16,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Carallia brachiata",
+        "time": -106.16,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Rhizophora mucronata",
+        "time": -106.16,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Carrierea calycina",
+        "time": -106.16,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Idesia polycarpa",
+        "time": -106.16,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Populus euphratica",
+        "time": -106.16,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Populus yunnanensis",
+        "time": -106.16,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Salix gordejevii",
+        "time": -106.16,
+        "value": [
+            106.176941,
+            38.405071,
+            1
+        ]
+    },
+    {
+        "name": "Salix miyabeana",
+        "time": -106.16,
+        "value": [
+            106.176941,
+            38.405071,
+            1
+        ]
+    },
+    {
+        "name": "Salix wilhelmsiana",
+        "time": -106.16,
+        "value": [
+            106.176941,
+            38.405071,
+            1
+        ]
+    },
+    {
+        "name": "Scolopia buxifolia",
+        "time": -106.16,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Rinorea bengalensis",
+        "time": -106.16,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Viola sp.",
+        "time": -106.16,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Bixa orellana",
+        "time": -89.8,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Bixa orellana",
+        "time": -89.8,
+        "value": [
+            114.173874,
+            22.576612,
+            1
+        ]
+    },
+    {
+        "name": "Cistus laurifolius",
+        "time": -89.8,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Hopea hainanensis",
+        "time": -89.8,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Shorea assamica",
+        "time": -89.8,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Vatica mangachapoi",
+        "time": -89.8,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Abutilon sinense",
+        "time": -89.8,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Burretiodendron esquirolii",
+        "time": -89.8,
+        "value": [
+            103.41499,
+            24.41059,
+            1
+        ]
+    },
+    {
+        "name": "Craigia yunnanensis",
+        "time": -89.8,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Eriolaena spectabilis",
+        "time": -89.8,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Grewia chungii",
+        "time": -89.8,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Hibiscus surattensis",
+        "time": -89.8,
+        "value": [
+            101.561943,
+            21.450581,
+            1
+        ]
+    },
+    {
+        "name": "Kydia calycina",
+        "time": -89.8,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Microcos paniculata",
+        "time": -89.8,
+        "value": [
+            101.561943,
+            21.450581,
+            1
+        ]
+    },
+    {
+        "name": "Pachira aquatica",
+        "time": -89.8,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Sterculia lanceolata",
+        "time": -89.8,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Tilia chinensis",
+        "time": -89.8,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Tilia chinensis",
+        "time": -89.8,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Tilia tuan",
+        "time": -89.8,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Muntingia calabura",
+        "time": -89.8,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Daphne rhynchocarpa",
+        "time": -89.8,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Stellera chamaejasme",
+        "time": -89.8,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Wikstroemia dolichantha",
+        "time": -89.8,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Pittosporopsis kerrii",
+        "time": -94.76,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Combretum punctatum",
+        "time": -112.26,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Combretum sundaicum",
+        "time": -112.26,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Getonia floribunda",
+        "time": -112.26,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Terminalia myriocarpa",
+        "time": -112.26,
+        "value": [
+            101.561943,
+            21.450581,
+            1
+        ]
+    },
+    {
+        "name": "Crypteronia paniculata",
+        "time": -112.26,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Crypteronia paniculata",
+        "time": -112.26,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Duabanga grandiflora",
+        "time": -112.26,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Punica granatum",
+        "time": -112.26,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Rotala rotundifolia",
+        "time": -112.26,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Trapa incisa",
+        "time": -112.26,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Trapa incisa",
+        "time": -112.26,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Woodfordia fruticosa",
+        "time": -112.26,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Allomorphia baviensis",
+        "time": -112.26,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Medinilla septentrionalis",
+        "time": -112.26,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Baeckea frutescens",
+        "time": -112.26,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Melaleuca laxiflora",
+        "time": -112.26,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Rhodomyrtus tomentosa",
+        "time": -112.26,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Syzygium sp.",
+        "time": -112.26,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Epilobium palustre",
+        "time": -112.26,
+        "value": [
+            88.90708,
+            27.48592,
+            1
+        ]
+    },
+    {
+        "name": "Ludwigia adscendens",
+        "time": -112.26,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Oenothera rosea",
+        "time": -112.26,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Brasenia schreberi",
+        "time": -198.14,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Cabomba caroliniana",
+        "time": -198.14,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Cabomba caroliniana",
+        "time": -198.14,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Nuphar pumila",
+        "time": -198.14,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Nuphar pumila",
+        "time": -198.14,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Nymphaea sp.",
+        "time": -198.14,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Connarus yunnanensis",
+        "time": -106.97,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Ellipanthus glabrifolius",
+        "time": -106.97,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Rourea minor",
+        "time": -106.97,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Elaeocarpus dubius",
+        "time": -106.97,
+        "value": [
+            119.588173,
+            33.684929,
+            1
+        ]
+    },
+    {
+        "name": "Elaeocarpus hainanensis",
+        "time": -106.97,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Averrhoa carambola",
+        "time": -106.97,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Averrhoa carambola",
+        "time": -106.97,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Oxalis acetosella",
+        "time": -106.97,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Carludovica palmata",
+        "time": -137.55,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Carludovica palmata",
+        "time": -137.55,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Pandanus tectorius",
+        "time": -137.55,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Pandanus urophyllus",
+        "time": -137.55,
+        "value": [
+            97.943581,
+            24.691143,
+            1
+        ]
+    },
+    {
+        "name": "Stemona parviflora",
+        "time": -137.55,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Stemona tuberosa",
+        "time": -137.55,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Petrosavia sakuraii",
+        "time": -127.02,
+        "value": [
+            100.616608,
+            36.282539,
+            1
+        ]
+    },
+    {
+        "name": "Aristolochia debilis",
+        "time": -140.09,
+        "value": [
+            125.28845,
+            43.83327,
+            1
+        ]
+    },
+    {
+        "name": "Aristolochia tagala",
+        "time": -140.09,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Peperomia blanda",
+        "time": -140.09,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Piper aduncum",
+        "time": -140.09,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Piper sp.",
+        "time": -140.09,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Houttuynia cordata",
+        "time": -140.09,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Houttuynia cordata",
+        "time": -140.09,
+        "value": [
+            104.7274,
+            27.12328,
+            1
+        ]
+    },
+    {
+        "name": "Saururus chinensis",
+        "time": -140.09,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Ananas comosus",
+        "time": -127.67,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Eriocaulon sp.",
+        "time": -127.67,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Eriocaulon sp.",
+        "time": -127.67,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Digitaria ciliaris",
+        "time": -127.67,
+        "value": [
+            104.54733,
+            30.41133,
+            1
+        ]
+    },
+    {
+        "name": "Sparganium emersum",
+        "time": -127.67,
+        "value": [
+            102.54438,
+            32.79087,
+            1
+        ]
+    },
+    {
+        "name": "Typha angustifolia",
+        "time": -127.67,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Xyris indica",
+        "time": -127.67,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Xyris indica",
+        "time": -127.67,
+        "value": [
+            110.751343,
+            19.616451,
+            1
+        ]
+    },
+    {
+        "name": "Platanus acerifolia",
+        "time": -128.91,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Platanus occidentalis",
+        "time": -128.91,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Grevillea robusta",
+        "time": -128.91,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Helicia formosana",
+        "time": -128.91,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Heliciopsis henryi",
+        "time": -128.91,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Macadamia integrifolia",
+        "time": -128.91,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Meliosma myriantha",
+        "time": -128.91,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Sabia dielsii",
+        "time": -128.91,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Dysosma sp.",
+        "time": -132.41,
+        "value": [
+            108.183922,
+            25.491322,
+            1
+        ]
+    },
+    {
+        "name": "Mahonia bealei",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Nandina domestica",
+        "time": -132.41,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Sinopodophyllum hexandrum",
+        "time": -132.41,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Euptelea pleiosperma",
+        "time": -132.41,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Euptelea pleiosperma",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Decaisnea insignis",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Holboellia parviflora",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Sargentodoxa cuneata",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Stauntonia chinensis",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Cocculus orbiculatus",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Diploclisia glaucescens",
+        "time": -132.41,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Eleutharrhena macrocarpa",
+        "time": -132.41,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Stephania cephalantha",
+        "time": -132.41,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Stephania delavayi",
+        "time": -132.41,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Macleaya cordata",
+        "time": -132.41,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Aconitum brevicalcaratum",
+        "time": -132.41,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Anemone howellii",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Clematis armandii",
+        "time": -132.41,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Delphinium taliense",
+        "time": -132.41,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Dichocarpum adiantifolium",
+        "time": -132.41,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Ranunculus sceleratus",
+        "time": -132.41,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Aphananthe sp.",
+        "time": -102.67,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Cannabis sativa",
+        "time": -102.67,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Celtis biondii",
+        "time": -102.67,
+        "value": [
+            114.54688,
+            29.02533,
+            1
+        ]
+    },
+    {
+        "name": "Humulus scandens",
+        "time": -102.67,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Pteroceltis tatarinowii",
+        "time": -102.67,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Trema levigata",
+        "time": -102.67,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Trema orientalis",
+        "time": -102.67,
+        "value": [
+            104.845818,
+            22.938572,
+            1
+        ]
+    },
+    {
+        "name": "Elaeagnus gonyanthes",
+        "time": -102.67,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Morus australis",
+        "time": -102.67,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Ventilago denticulata",
+        "time": -102.67,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Ziziphus jujuba",
+        "time": -102.67,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Chaenomeles sinensis",
+        "time": -102.67,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Malus micromalus",
+        "time": -102.67,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Physocarpus sp.",
+        "time": -102.67,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Sorbaria sorbifolia",
+        "time": -102.67,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Stephanandra chinensis",
+        "time": -102.67,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Holoptelea integrifolia",
+        "time": -102.67,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Ulmus changii",
+        "time": -102.67,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Ulmus parvifolia",
+        "time": -102.67,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Zelkova schneideriana",
+        "time": -102.67,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Boehmeria nivea",
+        "time": -102.67,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Erythropalum scandens",
+        "time": -118.38,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Erythropalum scandens",
+        "time": -118.38,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Malania oleifera",
+        "time": -118.38,
+        "value": [
+            105.023293,
+            24.046112,
+            1
+        ]
+    },
+    {
+        "name": "Olax acuminata",
+        "time": -118.38,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Olax imbricata",
+        "time": -118.38,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Olax sp.",
+        "time": -118.38,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Cansjera rheedei",
+        "time": -118.38,
+        "value": [
+            109.519707,
+            18.265371,
+            1
+        ]
+    },
+    {
+        "name": "Phacellaria caulescens",
+        "time": -118.38,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Scleropyrum pentandrum",
+        "time": -118.38,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Thesium longifolium",
+        "time": -118.38,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Viscum liquidambaricola",
+        "time": -118.38,
+        "value": [
+            103.006607,
+            25.235741,
+            1
+        ]
+    },
+    {
+        "name": "Viscum nudum",
+        "time": -118.38,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Viscum ovalifolium",
+        "time": -118.38,
+        "value": [
+            109.964394,
+            18.43424,
+            1
+        ]
+    },
+    {
+        "name": "Schoepfia jasminodora",
+        "time": -118.38,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Schoepfia jasminodora",
+        "time": -118.38,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Anacardium occidentale",
+        "time": -97.17,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Choerospondias axillaris",
+        "time": -97.17,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Lannea coromandelica",
+        "time": -97.17,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Pegia nitida",
+        "time": -97.17,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Rhus chinensis",
+        "time": -97.17,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Biebersteinia heterostemon",
+        "time": -97.17,
+        "value": [
+            102.40173,
+            36.48209,
+            1
+        ]
+    },
+    {
+        "name": "Biebersteinia heterostemon",
+        "time": -97.17,
+        "value": [
+            102.40173,
+            36.48209,
+            1
+        ]
+    },
+    {
+        "name": "Canarium pimela",
+        "time": -97.17,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Garuga forrestii",
+        "time": -97.17,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Chukrasia tabularis",
+        "time": -97.17,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Heynea trijuga",
+        "time": -97.17,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Toona ciliata",
+        "time": -97.17,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Toona ciliata",
+        "time": -97.17,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Nitraria tangutorum",
+        "time": -97.17,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Peganum nigellastrum",
+        "time": -97.17,
+        "value": [
+            106.168419,
+            38.491177,
+            1
+        ]
+    },
+    {
+        "name": "Harrisonia perforata",
+        "time": -97.17,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Paramignya confertifolia",
+        "time": -97.17,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Tetradium ruticarpum",
+        "time": -97.17,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Toddalia asiatica",
+        "time": -97.17,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Zanthoxylum multijugum",
+        "time": -97.17,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Acer davidii",
+        "time": -97.17,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Acer paxii",
+        "time": -97.17,
+        "value": [
+            102.75376,
+            24.28744,
+            1
+        ]
+    },
+    {
+        "name": "Acer pubipetiolatum",
+        "time": -97.17,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Aesculus chinensis",
+        "time": -97.17,
+        "value": [
+            115.89925,
+            28.68503,
+            1
+        ]
+    },
+    {
+        "name": "Allophylus cobbe",
+        "time": -97.17,
+        "value": [
+            100.79739,
+            22.00749,
+            1
+        ]
+    },
+    {
+        "name": "Delavaya yunnanensis",
+        "time": -97.17,
+        "value": [
+            102.75376,
+            24.28744,
+            1
+        ]
+    },
+    {
+        "name": "Dipteronia dyeriana",
+        "time": -97.17,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Xanthoceras sorbifolium",
+        "time": -97.17,
+        "value": [
+            116.208168,
+            40.002979,
+            1
+        ]
+    },
+    {
+        "name": "Brucea mollis",
+        "time": -97.17,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Liquidambar formosana",
+        "time": -118.38,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Cercidiphyllum japonicum",
+        "time": -118.38,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Cercidiphyllum japonicum",
+        "time": -118.38,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Kalanchoe integra",
+        "time": -118.38,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Cynomorium coccineum",
+        "time": -118.38,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Cynomorium coccineum",
+        "time": -118.38,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Daphniphyllum himalayense",
+        "time": -118.38,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Ribes glaciale",
+        "time": -118.38,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Ribes sp.",
+        "time": -118.38,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Myriophyllum aquaticum",
+        "time": -118.38,
+        "value": [
+            114.4234,
+            30.54442,
+            1
+        ]
+    },
+    {
+        "name": "Myriophyllum verticillatum",
+        "time": -118.38,
+        "value": [
+            104.17836,
+            24.043428,
+            1
+        ]
+    },
+    {
+        "name": "Chunia bucklandioides",
+        "time": -118.38,
+        "value": [
+            100.62037,
+            36.28663,
+            1
+        ]
+    },
+    {
+        "name": "Exbucklandia tonkinensis",
+        "time": -118.38,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Hamamelis mollis",
+        "time": -118.38,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Rhodoleia championii",
+        "time": -118.38,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Itea macrophylla",
+        "time": -118.38,
+        "value": [
+            99.24583,
+            23.14681,
+            1
+        ]
+    },
+    {
+        "name": "Itea yunnanensis",
+        "time": -118.38,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Paeonia delavayi",
+        "time": -118.38,
+        "value": [
+            102.715042,
+            25.035419,
+            1
+        ]
+    },
+    {
+        "name": "Paeonia delavayi",
+        "time": -118.38,
+        "value": [
+            99.704979,
+            27.830011,
+            1
+        ]
+    },
+    {
+        "name": "Penthorum chinense",
+        "time": -118.38,
+        "value": [
+            116.964661,
+            36.648212,
+            1
+        ]
+    },
+    {
+        "name": "Penthorum chinense",
+        "time": -118.38,
+        "value": [
+            123.46987,
+            41.80515,
+            1
+        ]
+    },
+    {
+        "name": "Chrysosplenium nepalense",
+        "time": -118.38,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Saxifraga gemmipara",
+        "time": -118.38,
+        "value": [
+            102.49767,
+            25.22199,
+            1
+        ]
+    },
+    {
+        "name": "Tanakaea radicans",
+        "time": -118.38,
+        "value": [
+            103.885498,
+            30.066561,
+            1
+        ]
+    },
+    {
+        "name": "Tiarella polyphylla",
+        "time": -118.38,
+        "value": [
+            104.384674,
+            23.304041,
+            1
+        ]
+    },
+    {
+        "name": "Ipomoea aquatica",
+        "time": -87.43,
+        "value": [
+            100.80098,
+            22.005302,
+            1
+        ]
+    },
+    {
+        "name": "Ipomoea batatas",
+        "time": -87.43,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Merremia vitifolia",
+        "time": -87.43,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Hydrolea zeylanica",
+        "time": -87.43,
+        "value": [
+            107.35325,
+            22.40566,
+            1
+        ]
+    },
+    {
+        "name": "Hydrolea zeylanica",
+        "time": -87.43,
+        "value": [
+            110.468346,
+            19.939362,
+            1
+        ]
+    },
+    {
+        "name": "Physochlaina praealta",
+        "time": -87.43,
+        "value": [
+            80.0959,
+            32.50028,
+            1
+        ]
+    },
+    {
+        "name": "Solanum torvum",
+        "time": -87.43,
+        "value": [
+            101.99014,
+            24.07,
+            1
+        ]
+    },
+    {
+        "name": "Tetracentron sinense",
+        "time": -126.0,
+        "value": [
+            99.25929,
+            24.01828,
+            1
+        ]
+    },
+    {
+        "name": "Trochodendron aralioides",
+        "time": -126.0,
+        "value": [
+            121.520076,
+            25.030724,
+            1
+        ]
+    },
+    {
+        "name": "Ampelopsis grossedentata",
+        "time": -118.21,
+        "value": [
+            100.795532,
+            22.009344,
+            1
+        ]
+    },
+    {
+        "name": "Cissus javana",
+        "time": -118.21,
+        "value": [
+            102.40126,
+            24.171921,
+            1
+        ]
+    },
+    {
+        "name": "Leea indica",
+        "time": -118.21,
+        "value": [
+            100.97692,
+            22.78684,
+            1
+        ]
+    },
+    {
+        "name": "Canna indica",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Canna indica",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Cheilocostus speciosus",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Costus curvibracteatus",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Costus spiralis",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Heliconia rostrata",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Heliconia subulata",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Maranta sp.",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Phrynium pubinerve",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Phrynium sp.",
+        "time": -99.0,
+        "value": [
+            98.82543,
+            23.7631,
+            1
+        ]
+    },
+    {
+        "name": "Musa ornata",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Ravenala madagascariensis",
+        "time": -99.0,
+        "value": [
+            121.183037,
+            31.075001,
+            1
+        ]
+    },
+    {
+        "name": "Strelitzia reginae",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Caulokaempferia yunnanensis",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Etlingera elatior",
+        "time": -99.0,
+        "value": [
+            101.270424,
+            21.916943,
+            1
+        ]
+    },
+    {
+        "name": "Globba racemosa",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Hedychium spicatum",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Kaempferia rotunda",
+        "time": -99.0,
+        "value": [
+            102.736237,
+            25.146551,
+            1
+        ]
+    },
+    {
+        "name": "Tetraena mongolica",
+        "time": -113.19,
+        "value": [
+            106.8226,
+            39.69184,
+            1
+        ]
+    },
+    {
+        "name": "Tribulus terrestris",
+        "time": -113.19,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Zygophyllum mucronatum",
+        "time": -113.19,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Zygophyllum potaninii",
+        "time": -113.19,
+        "value": [
+            105.72898,
+            38.85153,
+            1
+        ]
+    },
+    {
+        "name": "Zygophyllum xanthoxylon",
+        "time": -113.19,
+        "value": [
+            103.14178,
+            36.97184,
+            1
+        ]
+    }
+]

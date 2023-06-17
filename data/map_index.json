@@ -1,0 +1,257 @@
+[
+    {
+        "value": 0,
+        "label": "Cycadaceae",
+        "color": "#556B2F"
+    },
+    {
+        "value": 28,
+        "label": "Araucariaceae",
+        "color": "#0000CD"
+    },
+    {
+        "value": 30,
+        "label": "Taxaceae",
+        "color": "#000080"
+    },
+    {
+        "value": 61,
+        "label": "Cupressaceae",
+        "color": "#8B008B"
+    },
+    {
+        "value": 88,
+        "label": "Araucaria",
+        "color": "#DDA0DD"
+    },
+    {
+        "value": 166,
+        "label": "Canellaceae",
+        "color": "#BA55D3"
+    },
+    {
+        "value": 167,
+        "label": "Schisandraceae",
+        "color": "#008B8B"
+    },
+    {
+        "value": 168,
+        "label": "Trimeniaceae",
+        "color": "#6495ED"
+    },
+    {
+        "value": 177,
+        "label": "Chloranthaceae",
+        "color": "#A52A2A"
+    },
+    {
+        "value": 185,
+        "label": "Pinus",
+        "color": "#008000"
+    },
+    {
+        "value": 188,
+        "label": "Nymphaeaceae",
+        "color": "#FFB6C1"
+    },
+    {
+        "value": 189,
+        "label": "Ranunculales",
+        "color": "#90EE90"
+    },
+    {
+        "value": 190,
+        "label": "Monocots",
+        "color": "#B0C4DE"
+    },
+    {
+        "value": 210,
+        "label": "Annonaceae",
+        "color": "#B22222"
+    },
+    {
+        "value": 211,
+        "label": "Eupomatiaceae",
+        "color": "#808000"
+    },
+    {
+        "value": 212,
+        "label": "Magnoliaceae",
+        "color": "#7CFC00"
+    },
+    {
+        "value": 228,
+        "label": "Proteales",
+        "color": "#7FFFD4"
+    },
+    {
+        "value": 229,
+        "label": "Laurales",
+        "color": "#6B8E23"
+    },
+    {
+        "value": 235,
+        "label": "Hernandiaceae",
+        "color": "#ADD8E6"
+    },
+    {
+        "value": 236,
+        "label": "Lauraceae",
+        "color": "#00FFFF"
+    },
+    {
+        "value": 237,
+        "label": "Monimiaceae",
+        "color": "#F08080"
+    },
+    {
+        "value": 240,
+        "label": "Buxales",
+        "color": "#8B0000"
+    },
+    {
+        "value": 248,
+        "label": "Saxifragales",
+        "color": "#00008B"
+    },
+    {
+        "value": 251,
+        "label": "Cornales",
+        "color": "#FF6347"
+    },
+    {
+        "value": 263,
+        "label": "Ericales",
+        "color": "#98FB98"
+    },
+    {
+        "value": 293,
+        "label": "Clusiaceae",
+        "color": "#B0E0E6"
+    },
+    {
+        "value": 421,
+        "label": "Arecales",
+        "color": "#191970"
+    },
+    {
+        "value": 432,
+        "label": "Hamamelidoideae",
+        "color": "#CD5C5C"
+    },
+    {
+        "value": 437,
+        "label": "Myrtaceae",
+        "color": "#00FA9A"
+    },
+    {
+        "value": 443,
+        "label": "Actinidiaceae",
+        "color": "#00FFFF"
+    },
+    {
+        "value": 490,
+        "label": "Juglandaceae",
+        "color": "#3CB371"
+    },
+    {
+        "value": 567,
+        "label": "Paracryphiaceae",
+        "color": "#DC143C"
+    },
+    {
+        "value": 595,
+        "label": "Zingiberales",
+        "color": "#00BFFF"
+    },
+    {
+        "value": 597,
+        "label": "Asteraceae",
+        "color": "#8FBC8F"
+    },
+    {
+        "value": 598,
+        "label": "Rhamnaceae",
+        "color": "#778899"
+    },
+    {
+        "value": 667,
+        "label": "Cannabaceae",
+        "color": "#663399"
+    },
+    {
+        "value": 676,
+        "label": "Sabiaceae",
+        "color": "#8A2BE2"
+    },
+    {
+        "value": 705,
+        "label": "Rutaceae",
+        "color": "#87CEEB"
+    },
+    {
+        "value": 717,
+        "label": "Elaeocarpaceae",
+        "color": "#FF69B4"
+    },
+    {
+        "value": 812,
+        "label": "Thuja",
+        "color": "#1E90FF"
+    },
+    {
+        "value": 899,
+        "label": "Rhododendron",
+        "color": "#9370DB"
+    },
+    {
+        "value": 910,
+        "label": "Vitaceae",
+        "color": "#0000FF"
+    },
+    {
+        "value": 931,
+        "label": "Dioon",
+        "color": "#20B2AA"
+    },
+    {
+        "value": 957,
+        "label": "Torricelliaceae",
+        "color": "#006400"
+    },
+    {
+        "value": 993,
+        "label": "Sapindaceae",
+        "color": "#ADFF2F"
+    },
+    {
+        "value": 1079,
+        "label": "Physalis",
+        "color": "#BC8F8F"
+    },
+    {
+        "value": 1165,
+        "label": "Prunus",
+        "color": "#708090"
+    },
+    {
+        "value": 1215,
+        "label": "Anacardium",
+        "color": "#F5DEB3"
+    },
+    {
+        "value": 1216,
+        "label": "Meliaceae",
+        "color": "#D8BFD8"
+    },
+    {
+        "value": 1294,
+        "label": "Tapisciaceae",
+        "color": "#FF0000"
+    },
+    {
+        "value": 1316,
+        "label": "Lepidozamia",
+        "color": "#FFFF00"
+    }
+]
